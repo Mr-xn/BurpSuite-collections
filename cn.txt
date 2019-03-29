@@ -1,0 +1,2 @@
+Proxy \t 代理
+The analysis is based on a sample of ([0-9]+) tokens?. Based on the sample size, the reliability of the results is: (.*)    分析$1基于令牌样本。 根据样本量，可靠性如下： $2
