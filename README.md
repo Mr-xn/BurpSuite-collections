@@ -8,6 +8,14 @@
 
 ![BurpSuite破解版汉化脚本.gif](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/BurpSuite%E7%A0%B4%E8%A7%A3%E7%89%88%E6%B1%89%E5%8C%96%E8%84%9A%E6%9C%AC.gif)
 
+##### 使用方法：
+
+只针对 `Windows` 而言：直接 `Download` 项目所有文件 双击 `创建桌面快捷方式.bat` 即可自动创建桌面快捷方式：<img src="https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/Goescat-Macaron-Burp-suite.ico" width="32" height ="32" align=right />
+
+如果需要替换图标，要么名字和现在的一样，要么就修改 `创建桌面快捷方式.bat` 里面大约 48 行的 图标名字:
+
+```set icon=%~dp0Goescat-Macaron-Burp-suite.ico``` 将其中的 `%~dp0` 后的 `Goescat-Macaron-Burp-suite.ico` 换成自己喜欢的图标的名字。(此举针对小白)
+
 ##### 文件列表
 
 ```
