@@ -6,6 +6,8 @@
 
 前阵子在**先知**上有朋友发了一个汉化的教程，但是需要手动输入这些命令而且还容易出错，故，我在此基础上写了个一键自动生成桌面快捷方式加上汉化启动。先上图各位看看效果：
 
+![BurpSuite破解版汉化脚本.gif](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/BurpSuite%E7%A0%B4%E8%A7%A3%E7%89%88%E6%B1%89%E5%8C%96%E8%84%9A%E6%9C%AC.gif)
+
 ##### 文件列表
 
 ```
@@ -33,6 +35,8 @@
 ```
 ##### 插件目录 plugins 介绍:
 
+![plugins](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/plugins.png)
+
 burp-vulners-scanner-1.2.jar --- burp 根据Vulners.com提供的漏洞库扫描通过burp的请求是否存在漏洞  
 
 地址：https://github.com/vulnersCom/burp-vulners-scanner 
@@ -53,9 +57,7 @@ Burp Suite 实战指南 (在线版本)：https://t0data.gitbooks.io/burpsuite/co
 
 Burp Suite新手指南 https://www.freebuf.com/articles/web/100377.html
 
-还有项目里面的: burpsuite实战指南.pdf
-
-
+还有项目里面的:  **burpsuite实战指南.pdf**
 
 #### Tips
 
