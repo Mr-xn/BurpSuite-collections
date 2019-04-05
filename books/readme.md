@@ -2,6 +2,10 @@
 
 + 持续收集中…
 
++ 利用burp插件Hackvertor绕过waf并破解XOR加密 - 嘶吼 RoarTalk.pdf --- 来自国内安专业全信息媒体[嘶吼](<https://www.4hou.com/tools/14353.html>)
+
+  > 嘶吼翻译的 Burp Suite 官方文章：[Bypassing WAFs and cracking XOR with Hackvertor](<https://portswigger.net/blog/bypassing-wafs-and-cracking-xor-with-hackvertor>)
+
 + Configuring Burp Suite with Android Nougat.pdf --- 来自[blog.ropnop.com](<https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/>)
 
   > 介绍怎样使用 Burp Suite 抓取 Android 手机上的 HTTPS 流量并解密 
