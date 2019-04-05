@@ -21,9 +21,10 @@
 ```
 
 +--- books
+|   +--- 利用burp插件Hackvertor绕过waf并破解XOR加密 - 嘶吼 RoarTalk
+|   +--- Configuring Burp Suite with Android Nougat.pdf
 |   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
 |   +--- burpsuite实战指南.pdf
-|   +--- Configuring Burp Suite with Android Nougat.pdf
 +--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
 +--- burpsuite_pro_v1.7.37.jar
