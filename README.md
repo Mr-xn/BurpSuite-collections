@@ -20,25 +20,27 @@
 
 ```
 
-> +--- Burp_Suite_Pro_v1.7.37_Loader_Keygen_Chinese_Support
-> |   +--- burp-loader-keygen.jar
-> |   +--- BurpSuiteCn.jar
-> |   +--- burpsuite_pro_v1.7.37.jar
-> |   +--- burpsuite实战指南.pdf
-> |   +--- BurpSuite破解版汉化脚本.gif
-> |   +--- Burp_start.bat
-> |   +--- cn.txt
-> |   +--- Goescat-Macaron-Burp-suite.ico
-> |   +--- Mrxn's Blog.url
-> |   +--- plugins
-> |   |   +--- burp-vulners-scanner-1.2.jar
-> |   |   +--- bypasswaf.jar
-> |   |   +--- chunked-coding-converter.0.2.1.jar
-> |   |   +--- sqlmap.jar
-> |   +--- plugins.png
-> |   +--- 创建桌面快捷方式.bat
-> |   +--- 吾爱破解论坛.url
-
++--- books
+|   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
+|   +--- burpsuite实战指南.pdf
++--- burp-loader-keygen.jar
++--- BurpSuiteCn.jar
++--- burpsuite_pro_v1.7.37.jar
++--- BurpSuite破解版汉化脚本.gif
++--- Burp_start.bat
++--- cn.txt
++--- Goescat-Macaron-Burp-suite.ico
++--- Mrxn's Blog.url
++--- plugins
+|   +--- burp-vulners-scanner-1.2.jar
+|   +--- bypasswaf.jar
+|   +--- chunked-coding-converter.0.2.1.jar
+|   +--- Readme.md
+|   +--- sqlmap.jar
++--- plugins.png
++--- README.md
++--- 创建桌面快捷方式.bat
++--- 吾爱破解论坛.url
 
 ```
 ##### 插件目录 plugins 介绍:
@@ -65,7 +67,7 @@ Burp Suite 实战指南 (在线版本)：https://t0data.gitbooks.io/burpsuite/co
 
 Burp Suite新手指南 https://www.freebuf.com/articles/web/100377.html
 
-还有项目里面的:  **burpsuite实战指南.pdf**
+还有项目里面的books目录:  [**burpsuite实战指南.pdf等书籍**](https://github.com/Mr-xn/Burp-Suite-collections/tree/master/books)
 
 #### Tips
 
