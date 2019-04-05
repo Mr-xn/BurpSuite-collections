@@ -23,6 +23,7 @@
 +--- books
 |   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
 |   +--- burpsuite实战指南.pdf
+|   +--- Configuring Burp Suite with Android Nougat.pdf
 +--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
 +--- burpsuite_pro_v1.7.37.jar
