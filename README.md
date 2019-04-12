@@ -4,13 +4,15 @@
 
 #### 起因
 
-前阵子在**先知**上有朋友发了一个汉化的教程，但是需要手动输入这些命令而且还容易出错，故，我在此基础上写了个一键自动生成桌面快捷方式加上汉化启动。先上图各位看看效果：
+前阵子在**先知**上有朋友发了一个汉化的教程，但是需要手动输入这些命令而且还容易出错，故，我在此基础上写了个一键自动生成桌面快捷方式加上汉化启动。先上图：汉化+桌面快捷方式的一键启动效果：
 
 ![BurpSuite破解版汉化脚本.gif](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/BurpSuite%E7%A0%B4%E8%A7%A3%E7%89%88%E6%B1%89%E5%8C%96%E8%84%9A%E6%9C%AC.gif)
 
 ##### 使用方法：
 
-只针对 `Windows` 而言：直接 `Download` 项目所有文件 双击 `创建桌面快捷方式.bat` 即可自动创建桌面快捷方式：<img src="https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/Goescat-Macaron-Burp-suite.ico" width="32" height ="32" align=right />
+如果你习惯`【推荐】`英文不想使用汉化版的，直接运行`Create Desktop Link.bat` 即可创建英文版的桌面快捷方式，当然你也可以两个都创建。*(汉化版在某些插件上面会出现各种 **UI** **BUG** ，如果你的 Burp 界面出现了 BUG 请切换英文原版试试)*
+
+只针对 `Windows` 而言：直接 `Download` 项目所有文件 双击 `创建桌面快捷方式.bat` 即可自动创建`汉化版`桌面快捷方式：<img src="https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/Goescat-Macaron-Burp-suite.ico" width="32" height ="32" align=right />
 
 如果需要替换图标，要么名字和现在的一样，要么就修改 `创建桌面快捷方式.bat` 里面大约 48 行的 图标名字:
 
@@ -21,22 +23,35 @@
 ```
 
 +--- books
-|   +--- 利用burp插件Hackvertor绕过waf并破解XOR加密 - 嘶吼 RoarTalk
-|   +--- Configuring Burp Suite with Android Nougat.pdf
 |   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
 |   +--- burpsuite实战指南.pdf
+|   +--- Configuring Burp Suite with Android Nougat.pdf
+|   +--- nmap-man-page.pdf
+|   +--- Nmap渗透测试思维导图.png
+|   +--- readme.md
+|   +--- 利用burp插件Hackvertor绕过waf并破解XOR加密 - 嘶吼 RoarTalk.pdf
 +--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
 +--- burpsuite_pro_v1.7.37.jar
 +--- BurpSuite破解版汉化脚本.gif
 +--- Burp_start.bat
++--- Burp_start_en.bat
 +--- cn.txt
++--- Create Desktop Link.bat
 +--- Goescat-Macaron-Burp-suite.ico
 +--- Mrxn's Blog.url
 +--- plugins
 |   +--- burp-vulners-scanner-1.2.jar
 |   +--- bypasswaf.jar
 |   +--- chunked-coding-converter.0.2.1.jar
+|   +--- jsEncrypter.0.2
+|   |   +--- jsEncrypter.0.2.jar
+|   |   +--- jsEncrypter_readme.pdf
+|   |   +--- nodejs_server.js
+|   |   +--- phantomjs_server.js
+|   |   +--- README.md
+|   |   +--- 对登录中账号密码进行加密之后再传输的爆破的思路和方式 - FreeBuf互联网安全新媒体平台.pdf
+|   |   +--- 编写加密传输爆破插件jsEncrypter _ 回忆飘如雪.pdf
 |   +--- Readme.md
 |   +--- sqlmap.jar
 +--- plugins.png
@@ -62,6 +77,8 @@ chunked-coding-converter.0.2.1.jar 国人c0ny1最新版 burp分块输出，也�
 地址：https://github.com/c0ny1/chunked-coding-converter 
 
 sqlmap.jar 联合本地sqlmap 进行注入测试，当然burp插件商店上还有一款 sqli-py(地址：https://github.com/portswigger/sqli-py)可以直接安装就不叙述了
+
+jsEncrypter.0.2 --- jsEncrypter 使用 `phantomjs` 调用前端加密函数对数据进行加密，方便对加密数据输入点进行fuzz
 
 #### 相关教程书籍：
 
