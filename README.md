@@ -65,6 +65,8 @@
 
 ![plugins](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/plugins.png)
 
+jsEncrypter.0.2 --- jsEncrypter 使用 `phantomjs` 调用前端加密函数对数据进行加密，方便对加密数据输入点进行fuzz
+
 burp-vulners-scanner-1.2.jar --- burp 根据Vulners.com提供的漏洞库扫描通过burp的请求是否存在漏洞  
 
 地址：https://github.com/vulnersCom/burp-vulners-scanner 
@@ -79,7 +81,7 @@ chunked-coding-converter.0.2.1.jar 国人c0ny1最新版 burp分块输出，也�
 
 sqlmap.jar 联合本地sqlmap 进行注入测试，当然burp插件商店上还有一款 sqli-py(地址：https://github.com/portswigger/sqli-py)可以直接安装就不叙述了
 
-jsEncrypter.0.2 --- jsEncrypter 使用 `phantomjs` 调用前端加密函数对数据进行加密，方便对加密数据输入点进行fuzz
+
 
 #### 相关教程书籍：
 
