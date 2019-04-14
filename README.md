@@ -23,6 +23,7 @@
 ```
 
 +--- books
+|   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
 |   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
 |   +--- burpsuite实战指南.pdf
 |   +--- Configuring Burp Suite with Android Nougat.pdf
@@ -43,6 +44,7 @@
 +--- Mrxn's Blog.url
 +--- plugins
 |   +--- burp-vulners-scanner-1.2.jar
+|	+--- LFI scanner checks.jar
 |   +--- bypasswaf.jar
 |   +--- chunked-coding-converter.0.2.1.jar
 |   +--- jsEncrypter.0.2
@@ -64,6 +66,8 @@
 ##### 插件目录 plugins 介绍:
 
 ![plugins](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/plugins.png)
+
+LFI scanner checks.jar --- 是国人[lufei](https://github.com/lufeirider/Project/tree/master/LFIScanner)为burp轻量级扫描器做的一个检测LFI(Local File Include)本地文件包含漏洞插件。相关文章可以在[freebuf](<https://www.freebuf.com/sectool/75118.html>)看他写的或者是看项目[保存的PDF版](https://github.com/Mr-xn/BurpSuite-collections/blob/master/books/本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf)。
 
 jsEncrypter.0.2 --- jsEncrypter 使用 `phantomjs` 调用前端加密函数对数据进行加密，方便对加密数据输入点进行fuzz
 
