@@ -43,6 +43,7 @@
 +--- Goescat-Macaron-Burp-suite.ico
 +--- Mrxn's Blog.url
 +--- plugins
+|   +--- HackBar.jar
 |   +--- burp-vulners-scanner-1.2.jar
 |	+--- LFI scanner checks.jar
 |   +--- bypasswaf.jar
@@ -66,6 +67,10 @@
 ##### 插件目录 plugins 介绍:
 
 ![plugins](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/plugins.png)
+
+HackBar.jar --- 做渗透测试的早一点的都知道老版本火狐的HackBar插件吧，这个Burpsuite的类似的功能，详细的可以看项目源地址看 — [HackBar](https://github.com/d3vilbug/HackBar) 动图如下：
+
+![HackBar演示](https://camo.githubusercontent.com/895a1d48448d649237a786253f0854829ae8e03b/68747470733a2f2f692e696d6775722e636f6d2f726c48494a6b6f2e676966)
 
 LFI scanner checks.jar --- 是国人 [lufei](https://github.com/lufeirider/Project/tree/master/LFIScanner) 为burp轻量级扫描器做的一个检测LFI(Local File Include)本地文件包含漏洞插件。相关文章可以在 [freebuf](https://www.freebuf.com/sectool/75118.html) 看他写的或者是看项目[保存的PDF版](https://github.com/Mr-xn/BurpSuite-collections/blob/master/books/%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7%20%E2%80%93%20Burp%E5%9B%BD%E4%BA%A7%E6%8F%92%E4%BB%B6LFI%20scanner%20checks.pdf) 。
 
