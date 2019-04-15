@@ -45,7 +45,7 @@
 +--- plugins
 |   +--- HackBar.jar
 |   +--- burp-vulners-scanner-1.2.jar
-|	+--- LFI scanner checks.jar
+|   +--- LFI scanner checks.jar
 |   +--- bypasswaf.jar
 |   +--- chunked-coding-converter.0.2.1.jar
 |   +--- jsEncrypter.0.2
