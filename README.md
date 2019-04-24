@@ -43,6 +43,7 @@
 +--- Goescat-Macaron-Burp-suite.ico
 +--- Mrxn's Blog.url
 +--- plugins
+|   +--- burplogger++.jar
 |   +--- HackBar.jar
 |   +--- burp-vulners-scanner-1.2.jar
 |   +--- LFI scanner checks.jar
@@ -67,6 +68,8 @@
 ##### 插件目录 plugins 介绍:
 
 ![plugins](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/plugins.png)
+
+burplogger++.jar --- 顾名思义，就是 burpsuite 的日志插件，不过是增强版本，如果你不满足 burpsuite 自带得日志功能，来试试她吧！just join it! 详细介绍看[项目地址](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) 我目前添加的是 Version 3.09 release.
 
 HackBar.jar --- 做渗透测试的早一点的都知道老版本火狐的HackBar插件吧，这个Burpsuite的类似的功能，详细的可以看项目源地址看 — [HackBar](https://github.com/d3vilbug/HackBar) 动图如下：
 
