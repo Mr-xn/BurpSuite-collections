@@ -38,8 +38,8 @@
 |   +--- chunked-coding-converter.0.2.1.jar
 |   +--- domain_hunter-1.3.jar
 |   +--- HackBar.jar
-|   +--- jsEncrypter.0.2
-|   |   +--- jsEncrypter.0.2.jar
+|   +--- jsEncrypter.0.3
+|   |   +--- jsEncrypter-0.3.jar
 |   |   +--- jsEncrypter_readme.pdf
 |   |   +--- nodejs_server.js
 |   |   +--- phantomjs_server.js
