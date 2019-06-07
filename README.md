@@ -30,7 +30,7 @@
 +--- plugins
 |   +--- domain_hunter-1.3.jar
 |   +--- reCAPTCHA.v0.8.jar
-|   +--- knife-v1.1.jar
+|   +--- knife-v1.2.jar
 |   +--- burplogger++.jar
 |   +--- HackBar.jar
 |   +--- burp-vulners-scanner-1.2.jar
@@ -61,7 +61,7 @@
 
 - **reCAPTCHA.v0.8.jar** --- Burpsuite intruder 用于爆破模块验证码的自动识别插件，详细使用请看这里：[使用说明](https://github.com/bit4woo/reCAPTCHA/blob/master/README.md)
 
-- **knife-v1.1.jar** --- [bit4](https://github.com/bit4woo/knife/blob/master/README-zh.md)表哥开发的一款 `burpsuite` 增强功能插件，主要是增加右键菜单功能(包含 `hackbar++` 插件功能)，同时增加 `Tab` 区域，比如 `U2C`(将 Unicode 形式的字符转换为中文，比如 `\u4e2d\u6587`-->`中文`)，非常实用的功能，可以在测试的时候提高效率，效果如图：![U2C](https://raw.githubusercontent.com/bit4woo/knife/master/img/u2cTab.png)
+- **knife-v1.2.jar** --- [bit4](https://github.com/bit4woo/knife/blob/master/README-zh.md)表哥开发的一款 `burpsuite` 增强功能插件，主要是增加右键菜单功能(包含 `hackbar++` 插件功能)，同时增加 `Tab` 区域，比如 `U2C`(将 Unicode 形式的字符转换为中文，比如 `\u4e2d\u6587`-->`中文`)，非常实用的功能，可以在测试的时候提高效率，效果如图：![U2C](https://raw.githubusercontent.com/bit4woo/knife/master/img/u2cTab.png)
 
 - **burplogger++.jar** --- 顾名思义，就是 burpsuite 的日志插件，不过是增强版本，如果你不满足 burpsuite 自带得日志功能，来试试她吧！just join it! 详细介绍看[项目地址](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) 我目前添加的是 Version 3.09 release.
 
