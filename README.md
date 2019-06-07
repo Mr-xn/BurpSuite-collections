@@ -7,36 +7,37 @@
 ```
 
 +--- books
-|   +--- burp 日志插件「burplogger++.jar」从原理到实践-信安之路.pdf
-|   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
 |   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
+|   +--- burp 日志插件「burplogger++.jar」从原理到实践-信安之路.pdf
 |   +--- burpsuite实战指南.pdf
 |   +--- Configuring Burp Suite with Android Nougat.pdf
 |   +--- nmap-man-page.pdf
 |   +--- Nmap渗透测试思维导图.png
 |   +--- readme.md
 |   +--- 利用burp插件Hackvertor绕过waf并破解XOR加密 - 嘶吼 RoarTalk.pdf
+|   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
 +--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
 +--- burpsuite_pro_v1.7.37.jar
-+--- BurpSuite破解版汉化脚本.gif
 +--- Burp_start.bat
 +--- Burp_start_en.bat
 +--- cn.txt
 +--- Create Desktop Link.bat
 +--- GitZip-for-github_v0.3.1.crx
-+--- Goescat-Macaron-Burp-suite.ico
++--- img
+|   +--- BurpSuite破解版汉化脚本.gif
+|   +--- Goescat-Macaron-Burp-suite.ico
+|   +--- hackbar.gif
+|   +--- plugins.png
+|   +--- u2cTab.png
 +--- Mrxn's Blog.url
 +--- plugins
-|   +--- domain_hunter-1.3.jar
-|   +--- reCAPTCHA.v0.8.jar
-|   +--- knife-v1.2.jar
-|   +--- burplogger++.jar
-|   +--- HackBar.jar
 |   +--- burp-vulners-scanner-1.2.jar
-|   +--- LFI scanner checks.jar
+|   +--- burplogger++.jar
 |   +--- bypasswaf.jar
 |   +--- chunked-coding-converter.0.2.1.jar
+|   +--- domain_hunter-1.3.jar
+|   +--- HackBar.jar
 |   +--- jsEncrypter.0.2
 |   |   +--- jsEncrypter.0.2.jar
 |   |   +--- jsEncrypter_readme.pdf
@@ -45,9 +46,11 @@
 |   |   +--- README.md
 |   |   +--- 对登录中账号密码进行加密之后再传输的爆破的思路和方式 - FreeBuf互联网安全新媒体平台.pdf
 |   |   +--- 编写加密传输爆破插件jsEncrypter _ 回忆飘如雪.pdf
+|   +--- knife-1.2.jar
+|   +--- LFI scanner checks.jar
 |   +--- Readme.md
+|   +--- reCAPTCHA.v0.8.jar
 |   +--- sqlmap.jar
-+--- plugins.png
 +--- README.md
 +--- 创建桌面快捷方式.bat
 +--- 吾爱破解论坛.url
@@ -55,19 +58,19 @@
 ```
 ##### 插件目录 plugins 介绍:
 
-![plugins](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/plugins.png)
+![plugins](./img/plugins.png)
 
 - **domain_hunter-1.3.jar** --- 利用 burp 收集整个企业、组织的域名（不仅仅是单个主域名）的插件。[详细说明](https://github.com/bit4woo/domain_hunter/blob/master/README.md)
 
 - **reCAPTCHA.v0.8.jar** --- Burpsuite intruder 用于爆破模块验证码的自动识别插件，详细使用请看这里：[使用说明](https://github.com/bit4woo/reCAPTCHA/blob/master/README.md)
 
-- **knife-v1.2.jar** --- [bit4](https://github.com/bit4woo/knife/blob/master/README-zh.md)表哥开发的一款 `burpsuite` 增强功能插件，主要是增加右键菜单功能(包含 `hackbar++` 插件功能)，同时增加 `Tab` 区域，比如 `U2C`(将 Unicode 形式的字符转换为中文，比如 `\u4e2d\u6587`-->`中文`)，非常实用的功能，可以在测试的时候提高效率，效果如图：![U2C](https://raw.githubusercontent.com/bit4woo/knife/master/img/u2cTab.png)
+- **knife-v1.2.jar** --- [bit4](https://github.com/bit4woo/knife/blob/master/README-zh.md)表哥开发的一款 `burpsuite` 增强功能插件，主要是增加右键菜单功能(包含 `hackbar++` 插件功能)，同时增加 `Tab` 区域，比如 `U2C`(将 Unicode 形式的字符转换为中文，比如 `\u4e2d\u6587`-->`中文`)，非常实用的功能，可以在测试的时候提高效率，效果如图：![U2C](./img/u2cTab.png)
 
 - **burplogger++.jar** --- 顾名思义，就是 burpsuite 的日志插件，不过是增强版本，如果你不满足 burpsuite 自带得日志功能，来试试她吧！just join it! 详细介绍看[项目地址](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) 我目前添加的是 Version 3.09 release.
 
 - **HackBar.jar** --- 做渗透测试的早一点的都知道老版本火狐的HackBar插件吧，这个Burpsuite的类似的功能，详细的可以看项目源地址看 — [HackBar](https://github.com/d3vilbug/HackBar) 动图如下：
 
-![HackBar演示](https://camo.githubusercontent.com/895a1d48448d649237a786253f0854829ae8e03b/68747470733a2f2f692e696d6775722e636f6d2f726c48494a6b6f2e676966)
+![HackBar演示](./img/hackbar.gif)
 
 - **LFI scanner checks.jar** --- 是国人 [lufei](https://github.com/lufeirider/Project/tree/master/LFIScanner) 为burp轻量级扫描器做的一个检测LFI(Local File Include)本地文件包含漏洞插件。相关文章可以在 [freebuf](https://www.freebuf.com/sectool/75118.html) 看他写的或者是看项目[保存的PDF版](https://github.com/Mr-xn/BurpSuite-collections/blob/master/books/%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7%20%E2%80%93%20Burp%E5%9B%BD%E4%BA%A7%E6%8F%92%E4%BB%B6LFI%20scanner%20checks.pdf) 。
 
@@ -91,13 +94,13 @@
 
 前阵子在**先知**上有朋友发了一个汉化的教程，但是需要手动输入这些命令而且还容易出错，故，我在此基础上写了个一键自动生成桌面快捷方式加上汉化启动。先上图：汉化+桌面快捷方式的一键启动效果：
 
-![BurpSuite破解版汉化脚本.gif](https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/BurpSuite%E7%A0%B4%E8%A7%A3%E7%89%88%E6%B1%89%E5%8C%96%E8%84%9A%E6%9C%AC.gif)
+![BurpSuite破解版汉化脚本.gif](./img/BurpSuite破解版汉化脚本.gif)
 
 ##### 使用方法：
 
 如果你习惯`【推荐】`英文不想使用汉化版的，直接运行`Create Desktop Link.bat` 即可创建英文版的桌面快捷方式，当然你也可以两个都创建。*(汉化版在某些插件上面会出现各种 **UI** **BUG** ，如果你的 Burp 界面出现了 BUG 请切换英文原版试试)*
 
-只针对 `Windows` 而言：直接 `Download` 项目所有文件 双击 `创建桌面快捷方式.bat` 即可自动创建`汉化版`桌面快捷方式：<img src="https://raw.githubusercontent.com/Mr-xn/Burp-Suite-collections/master/Goescat-Macaron-Burp-suite.ico" width="32" height ="32" align=right />
+只针对 `Windows` 而言：直接 `Download` 项目所有文件 双击 `创建桌面快捷方式.bat` 即可自动创建`汉化版`桌面快捷方式：<img src="./img//Goescat-Macaron-Burp-suite.ico" width="32" height ="32" align=right />
 
 如果需要替换图标，要么名字和现在的一样，要么就修改 `创建桌面快捷方式.bat` 里面大约 48 行的 图标名字:
 
