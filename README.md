@@ -2,6 +2,8 @@
 
 #### BurpSuite 相关收集项目
 
+### burpsuite crack 破解: [传送门](./crack.md)  
+
 ##### 文件列表
 
 ```
@@ -99,13 +101,19 @@
 
 ##### 使用方法：
 
+##### 注意：如果下载完的bat文件编码不是`ANSI`，而且换行不是`CRLF`，你运行`创建桌面快捷方式.bat` 就会出错。需要用记事本打开重新保存编码为`ANSI`即可，换行可以用VSCODE这类代码编辑器来更改。实在不想自己搞得就下载项目里面的[创建桌面快捷方式.zip](./创建桌面快捷方式.zip)解压到项目根目录再运行。  
+![](./img/ANSI.png)  
+![](./img/CRLF_ANSI.png)  
+成功创建后桌面可以看到【前提是已经破解过burpsuite了，[传送门](./crack.md)】：  
+![](./img/desktop_shortlink.png)  
+
 如果你习惯`【推荐】`英文不想使用汉化版的，直接运行`Create Desktop Link.bat` 即可创建英文版的桌面快捷方式，当然你也可以两个都创建。*(汉化版在某些插件上面会出现各种 **UI** **BUG** ，如果你的 Burp 界面出现了 BUG 请切换英文原版试试)*
 
 只针对 `Windows` 而言：直接 `Download` 项目所有文件 双击 `创建桌面快捷方式.bat` 即可自动创建`汉化版`桌面快捷方式：<img src="./img//Goescat-Macaron-Burp-suite.ico" width="32" height ="32" align=right />
 
 如果需要替换图标，要么名字和现在的一样，要么就修改 `创建桌面快捷方式.bat` 里面大约 48 行的 图标名字:
 
-```set icon=%~dp0Goescat-Macaron-Burp-suite.ico``` 将其中的 `%~dp0` 后的 `Goescat-Macaron-Burp-suite.ico` 换成自己喜欢的图标的名字。(此举针对小白)
+```set icon=%~dp0Goescat-Macaron-Burp-suite.ico``` 将其中的 `%~dp0/img/` 后的 `Goescat-Macaron-Burp-suite.ico` 换成自己喜欢的图标的名字。(此举针对小白)
 
 #### 相关教程书籍：
 
