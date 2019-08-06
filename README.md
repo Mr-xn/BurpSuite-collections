@@ -43,7 +43,7 @@
 |   +--- burplogger++.jar
 |   +--- bypasswaf.jar
 |   +--- chunked-coding-converter.0.2.1.jar
-|   +--- domain_hunter-1.3.jar
+|   +--- domain_hunter-v1.4.jar
 |   +--- HackBar.jar
 |   +--- jsEncrypter.0.3
 |   |   +--- jsEncrypter-0.3.jar
@@ -53,10 +53,10 @@
 |   |   +--- README.md
 |   |   +--- 对登录中账号密码进行加密之后再传输的爆破的思路和方式 - FreeBuf互联网安全新媒体平台.pdf
 |   |   +--- 编写加密传输爆破插件jsEncrypter _ 回忆飘如雪.pdf
-|   +--- knife-1.2.jar
+|   +--- knife-v1.4.jar
 |   +--- LFI scanner checks.jar
 |   +--- Readme.md
-|   +--- reCAPTCHA.v0.8.jar
+|   +--- reCAPTCHA-v0.9.jar
 |   +--- sqlmap.jar
 +--- README.md
 +--- 创建桌面快捷方式.bat
