@@ -1,6 +1,6 @@
 # Burp-Suite-collections
 
-#### BurpSuite 相关收集项目
+#### BurpSuite 相关收集项目，插件主要是非BApp Store（商店）
 
 ### burpsuite crack 破解: [传送门](./crack.md)(有能力请支持正版，本项目仅用于学习研究使用！)  
 
