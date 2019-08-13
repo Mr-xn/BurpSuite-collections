@@ -2,7 +2,7 @@
 A curated list of amazingly awesome Burp Extensions
 
 ## 国外师傅收集的精选`burp`插件列表：[awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions)  
-> 我慢慢同步翻译成中文版本 -_-  
+> 首先感谢他们的收集！我慢慢同步翻译成中文版本 -_-  
 
 # Contributing-贡献
 
