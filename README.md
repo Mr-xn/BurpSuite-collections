@@ -39,6 +39,7 @@
 |   +--- u2cTab.png
 +--- Mrxn's Blog.url
 +--- plugins
+|   +--- passive-scan-client-0.1-jar-with-dependencies.jar
 |   +--- burp-vulners-scanner-1.2.jar
 |   +--- burplogger++.jar
 |   +--- bypasswaf.jar
@@ -67,7 +68,9 @@
 
 ##### 插件目录 plugins 介绍:
 
-![plugins](./img/plugins.png)
+![plugins](./img/plugins.png)  
+
+- **passive-scan-client-0.1-jar-with-dependencies.jar** --- Burp被动扫描流量转发插件。[详细说明](https://github.com/c0ny1/passive-scan-client/blob/master/README.md)
 
 - **domain_hunter-1.4.jar** --- 利用 burp 收集整个企业、组织的域名（不仅仅是单个主域名）的插件。[详细说明](https://github.com/bit4woo/domain_hunter/blob/master/README.md)
 
