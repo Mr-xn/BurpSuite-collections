@@ -399,6 +399,7 @@ request and response processed by Burp.
 
 ## Misc
 
+* [knife](https://github.com/bit4woo/knife) - A extension that add some small function[ one key to update cookie, one key add host to scope] to right click context menu,insert payload of Hackbar or self-configured to current request.
 * [Burp Rest API](https://github.com/vmware/burp-rest-api) - REST/JSON API to the Burp Suite security tool.
 * [Burpa](https://github.com/0x4D31/burpa) - A Burp Suite Automation Tool.
 * [CVSS Calculator](https://portswigger.net/bappstore/e2209cdad8474342a695b2e279c294f0) - This extension calculates CVSS v2 and v3 scores of vulnerabilities.
