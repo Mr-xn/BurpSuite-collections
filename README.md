@@ -54,7 +54,7 @@
 |   |   +--- README.md
 |   |   +--- 对登录中账号密码进行加密之后再传输的爆破的思路和方式 - FreeBuf互联网安全新媒体平台.pdf
 |   |   +--- 编写加密传输爆破插件jsEncrypter _ 回忆飘如雪.pdf
-|   +--- knife-v1.4.jar
+|   +--- knife-v1.5.jar
 |   +--- LFI scanner checks.jar
 |   +--- Readme.md
 |   +--- reCAPTCHA-v0.9.jar
@@ -67,8 +67,6 @@
 </details>  
 
 ##### 插件目录 plugins 介绍:
-
-![plugins](./img/plugins.png)  
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)
 - **passive-scan-client-0.1-jar-with-dependencies.jar** --- Burp被动扫描流量转发插件,比如搭配长亭的[`XRAY`](https://github.com/chaitin/xray)来进行被动扫描，借用群里表哥的话:~~挂着坐收洞~~。[详细说明](https://github.com/c0ny1/passive-scan-client/blob/master/README.md),演示动图: ![](./img/passive-scan-client-0.1-jar-with-dependencies.gif)
