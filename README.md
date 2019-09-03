@@ -13,38 +13,53 @@
 
 +--- books
 |   +--- Burp Suite使用 _ Pa55w0rd 's Blog.pdf
+|   +--- Burp Suite使用中的一些技巧.pdf
 |   +--- burp 日志插件「burplogger++.jar」从原理到实践-信安之路.pdf
+|   +--- BurpSuite 代理设置的小技巧.pdf
 |   +--- burpsuite实战指南.pdf
 |   +--- Configuring Burp Suite with Android Nougat.pdf
+|   +--- IOS之Burpsuite抓Https问题.pdf
 |   +--- nmap-man-page.pdf
 |   +--- Nmap渗透测试思维导图.png
 |   +--- readme.md
+|   +--- 利用Burpsuite爆破Tomcat密码.pdf
 |   +--- 利用burp插件Hackvertor绕过waf并破解XOR加密 - 嘶吼 RoarTalk.pdf
-|   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
+|   +--- 基于BurpSuite快速探测越权-Authz插件.pdf
 |   +--- 如何在64位Windows 10下安装java开发环境.pdf
-|   +--- BurpSuite 代理设置的小技巧.pdf
+|   +--- 新手福利 _ Burpsuite你可能不知道的技巧.pdf
+|   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
 +--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
 +--- burpsuite_pro_v1.7.37.jar
 +--- Burp_start.bat
 +--- Burp_start_en.bat
 +--- cn.txt
-+--- Create Desktop Link.bat
++--- crack.md
++--- Create-Desktop-Link.bat
 +--- GitZip-for-github_v0.3.1.crx
 +--- img
+|   +--- ANSI.png
 |   +--- BurpSuite破解版汉化脚本.gif
+|   +--- crack1.png
+|   +--- crack2.png
+|   +--- crack3.png
+|   +--- crack4.png
+|   +--- crack5.png
+|   +--- crack_ok.png
+|   +--- CRLF_ANSI.png
+|   +--- desktop_shortlink.png
 |   +--- Goescat-Macaron-Burp-suite.ico
 |   +--- hackbar.gif
-|   +--- plugins.png
+|   +--- passive-scan-client-0.1-jar-with-dependencies.gif
 |   +--- u2cTab.png
 +--- Mrxn's Blog.url
 +--- plugins
-|   +--- passive-scan-client-0.1-jar-with-dependencies.jar
+|   +--- awesome-burp-extensions
+|   |   +--- README.md
 |   +--- burp-vulners-scanner-1.2.jar
-|   +--- LoggerPlusPlus.jar
 |   +--- bypasswaf.jar
 |   +--- chunked-coding-converter.0.2.1.jar
-|   +--- domain_hunter-v1.5.jar
+|   +--- domain_hunter-v1.4.jar
 |   +--- HackBar.jar
 |   +--- jsEncrypter.0.3
 |   |   +--- jsEncrypter-0.3.jar
@@ -56,19 +71,26 @@
 |   |   +--- 编写加密传输爆破插件jsEncrypter _ 回忆飘如雪.pdf
 |   +--- knife-v1.5.jar
 |   +--- LFI scanner checks.jar
+|   +--- LoggerPlusPlus.jar
+|   +--- passive-scan-client-0.1-jar-with-dependencies.jar
 |   +--- Readme.md
 |   +--- reCAPTCHA-v0.9.jar
 |   +--- sqlmap.jar
+|   +--- sqlmap4burp-plus-plus-0.1-jar-with-dependencies.jar
 +--- README.md
 +--- 创建桌面快捷方式.bat
++--- 创建桌面快捷方式.zip
 +--- 吾爱破解论坛.url
++--- 渗透测试面试问题2019版.md
 
 ```
 </details>  
 
 ##### 插件目录 plugins 介绍:
 
-> plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)
+> plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
+
+- **sqlmap4burp-plus-plus-0.1-jar-with-dependencies.jar** ---多平台无需外部依赖的burp联动sqlmap插件，使用也很简单，导入在burp拦截的请求里或者重放都可以直接发送到sqlmap4burp界面，第一次需要选择sqlmap.py文件位置进行设置，详细的可以看[飘雪表哥-c0ny1源处](https://github.com/c0ny1/sqlmap4burp-plus-plus)。
 - **passive-scan-client-0.1-jar-with-dependencies.jar** --- Burp被动扫描流量转发插件,比如搭配长亭的[`XRAY`](https://github.com/chaitin/xray)来进行被动扫描，借用群里表哥的话:~~挂着坐收洞~~。[详细说明](https://github.com/c0ny1/passive-scan-client/blob/master/README.md),演示动图: ![](./img/passive-scan-client-0.1-jar-with-dependencies.gif)
 
 - **domain_hunter-1.4.jar** --- 利用 burp 收集整个企业、组织的域名（不仅仅是单个主域名）的插件。[详细说明](https://github.com/bit4woo/domain_hunter/blob/master/README.md)
@@ -99,7 +121,7 @@
 
 地址：https://github.com/c0ny1/chunked-coding-converter 
 
-- **sqlmap.jar** 联合本地sqlmap 进行注入测试，当然burp插件商店上还有一款 sqli-py(地址：[https://github.com/portswigger/sqli-py](https://github.com/portswigger/sqli-py))可以直接安装就不叙述了
+- **sqlmap.jar** 联合本地sqlmap 进行注入测试，当然burp插件商店上还有一款 sqli-py(地址：[https://github.com/portswigger/sqli-py](https://github.com/portswigger/sqli-py))可以直接安装就不叙述了...推荐使用上面的sqlmap4burp-plus-plus,效果更好!
 
 #### 汉化起因
 
