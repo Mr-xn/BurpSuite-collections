@@ -26,4 +26,4 @@
   > LFI scanner checks是为了我自己为burp轻量级扫描器做的一个检测LFI漏洞插件，因为burp没有一个有效的检测LFI功能的，只能自己写一个插件了。
 
 + HTTP请求走私相关插件：https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn 
-> 文章：https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn [记一次请求走私学习](https://xz.aliyun.com/t/6299)
+  > 文章：https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn [记一次请求走私学习](https://xz.aliyun.com/t/6299)
