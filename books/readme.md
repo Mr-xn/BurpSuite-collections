@@ -27,3 +27,5 @@
 
 + HTTP请求走私相关插件：https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn 
   > 文章：https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn [记一次请求走私学习](https://xz.aliyun.com/t/6299)
+
++ 关于burpsuite的一些插件的使用文章项目：https://github.com/lilifengcode/Burpsuite-Plugins-Usage
