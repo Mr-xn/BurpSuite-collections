@@ -2,7 +2,9 @@
 
 #### BurpSuite 相关收集项目，插件主要是非BApp Store（商店）
 
-### burpsuite crack 破解: [传送门](./crack.md)(有能力请支持正版，本项目仅用于学习研究使用！)  
+### burpsuite pro 1.37 crack 破解: [传送门](./crack.md)  
+### [BurpSuite_pro_v2.1破解版.rar](https://mir.cr/1XKFLGFW)
+> (有能力请支持正版，本项目仅用于学习研究使用！)  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
