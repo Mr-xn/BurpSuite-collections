@@ -1,0 +1,1122 @@
+## 常见大小马的通用密码/备用密码/后门钥匙  
+
+> 可用于爆破shell或者是添加到字典,更具有针对性  
+>
+> shell密码大家要一起随时补充啊,不要做纯粹的伸手党啊!点个 star 再走也不迟嘛！哈哈哈  
+
+```
+黑羽基地免杀asp大马 密码5201314
+
+Hacked By CHINA! 密码china
+
+Asp站长助手6.0 密码584521
+
+web综合安全评测 – Beta3 密码nohack
+
+未知数X 密码45189946
+
+baidu｝” 密码baidu
+
+路遥知马力 密码123
+
+黑客网站之家 美化版 密码chenxue
+
+Thé、End.゛ 密码and QQ：2780217151
+
+笑佛天下 密码cnot
+
+西域小刚-站长助手-修改版本 密码xxoxx
+
+XXXXX 密码rinima
+
+暗组超强功能修正去后门加强S-U提权版 密码hkk007
+
+黑客官方-长期提供网站入侵,密码破解 数据库入侵 密码chengnuo
+ASPAdmin_A 密码”5556661221″ ‘123456
+
+火狐ASP木马(超强版)” 密码wrsk
+
+雨夜孤魂 密码54321
+
+Dark Security Team 密码yuemo 或者xingainian
+
+随风自由的泪 密码jcksyes
+
+伟大的农民 密码521
+
+mr.con asp小马 密码*******
+
+JspX 密码4lert
+
+围剿专版 密码yuemo或者5201314
+
+maek dream 密码hacker
+
+Shell 密码xxxxx
+
+靈魂◆安全小组+” 密码10011C120105101
+
+银河安全网 密码fclshark
+
+ASPXSpy 密码19880118
+
+Dark 密码376186027
+
+No Backdoor Webshell(刀) 密码admin
+
+黑勇士shell勇士版 密码654321
+
+小武来了 密码535039
+
+Evil sadness 密码admin
+
+F.S.T 联盟交流群内部版!!!别外传噢 密码000
+
+独自等待专用 密码123
+
+windows 密码 123
+
+[D.s.T]会员专用WebShell 密码darkst
+
+我要进去’ 密码jcksyesHacker
+
+‘Rose 密码123456
+
+随风自由的泪 密码jcksyes
+
+F.S.T 海盗内部版.!别外传噢。by 海盗 密码 jinjinWebShell
+
+6.0 VIP(密码防破解版 密码 12345
+
+JFeng 密码sq19880602
+
+Evil sadness 密码 jtk2352
+
+路遥知马力 密码sq19880602
+
+奥运专版网站维护工具(加强版)” 密码 killEdu
+
+黑客官方 密码chengnuo
+
+未知数X 密码45189946
+
+心动吧ASP超级提权修正加强版20080124 密码123321
+
+2010贺岁版 免杀 WebShell 密码admin
+
+Michael、T 专用asp提权木马 密码hacker
+
+Evil sadness 密码admin
+
+邪恶的装逼大叔冰菊 密码admin
+
+【HACKYONG】最终版 密码haode
+
+芝麻开门 密码chuang
+
+aiezu 密码981246
+
+萧萧文件管理 密码et520
+
+Password: 密码winner
+
+冷血 密码12
+
+奥运专版网站维护工具(加强版 密码20080808
+
+by：空气 密码yrpx
+
+暗组超强功能修正去后门加强S-U提权版 密码hkk007
+
+火狐ASP木马(超强版)” 华夏五周年庆典版 密码wrsk
+
+（中国数据） 密码rinima
+
+asp 黑客→kissy 密码ceshi2009
+
+Evil sadness 密码5201314
+
+F.S.T 联盟交流群内部版.!别外传噢 密码rfkl
+
+username 密码847381979
+
+这是一个没有信仰的年代 密码jing
+
+伟 密码winner
+
+沙漠之烟 密码4816535
+
+去演绎神话吧’ 密码zhack
+
+Sam,asp大马修正加强版 QQ:42466841 密码mama520
+
+fuck you 密码123go
+
+小武来了 密码1
+
+Baiki-” 密码1
+
+Login 密码888999
+
+E.V.A.V 专 用 网 马『修改版』 密码13572468
+
+月满西楼 密码sasa
+
+蛋蛋WEBSHELL鼠年增强版 密码dangdang
+
+乄缘來④妳专版免杀asp大马 密码lovehack7758
+
+F.S.T 联盟交流群内部版.!别外传噢 密码rfkl
+
+暗组超强功能修正去后门加强S-U提权版 密码123
+
+80sec内部专用过世界杀软休积最小功能超强超猛宇宙第一asp 密码hkmm
+
+G.xp 专用 密码133135136
+
+Satan 密码1992724
+
+F.S.T 联盟交流群内部版!!!别外传噢!!! 密码yong
+
+Evil sadness 密码noid
+
+懂你味道 密码caodan
+
+黑鹰专用WEBSHELL 密码96315001
+
+思易免杀ASP木马3.0（最新两款） 密码admin
+
+ＴＸ－网络专用ASP木马 密码axiao
+
+username 密码847381979
+
+F.S.T 联盟交流群内部版.!别外传噢。” 密码rfkl
+
+GHOST永久免杀ASP木马 ghost 密码yuemo
+
+围剿专版 +口令 密码yuemo
+
+Miracle个人专用 密码12
+
+小武来了 密码535039
+
+唐宋元明清╯” 密码bzxyd
+
+安全检测 {BY：網丄邻居} |” 密码tonecan
+
+我要进去’ 密码bzxyd
+
+Evil sadness 密码5201314
+
+3E Security Team 密码3est
+
+败家简单前后门 密码sin
+
+F.S.T 海盗内部版.!别外传噢。by 海盗 密码654321
+
+蓝色灭杀 密码ghost
+
+HqzX 密码C
+
+F.S.T 联盟交流群内部版!!!别外传噢!!!” 密码yong
+
+webadmin2 密码webadmin
+
+HqzX’s Blog 密码
+
+login蓝色 密码5909062xzx
+
+红盟太子 密码iolhcw19891209
+
+岁月联盟 （?Copyright (C) 2004 Security Angel Team [SYUE] All Rights Reserved.） 密码 hehe
+
+帆仔专用 密码5242129
+
+冰鱼 密码520或者yy520
+
+工欲善其事 必先利其器 密码xuexue
+
+Hack失去 密码xiaobai
+
+. 密码tg
+
+Www.Hack1990.Com 密码hack19或者914
+
+by H4ck3rx7 密码7
+
+潶色 密码1234
+
+80s专版 -密码beyond
+
+80S专用WebShell – 密码beyond
+
+Hack小龙专用WebShell 密码123456
+
+华中帝国培训基地2010迎新年专版 密码beyond
+
+H U C 专用版 By_80S 密码beyond
+
+F.S.T 联盟交流群内部版!!!别外传噢!!!” 密码zhu
+
+By：菜得很 密码2010或者20010或者110或者2012或者sh
+
+55 密码147852
+
+太子 密码chengmin
+
+超强版密码admin
+
+MASK专用 shell 密码mask
+
+by:小楼仔仔 密码linyu520
+
+二大爷改版 密码hhtzgh
+
+user login 密码007007
+
+皇朝红客安全网 By:小赞 QQ965407897密码xiaozan
+
+风修正简洁免杀豪华版 密码1
+
+‘T00ls – 低调求发展 -密码jiejie
+
+【冷风技术吧】专版 密码13822642918
+
+小军专用 shell 密码小军xiaojun
+
+闪电 密码yanhua
+
+小凯 密码a
+
+Xwei.` 专版 密码qqq
+
+– 密码yanghai或168888
+
+From the empty soul 密码latcue
+
+QQ 372688478″”技术的精纯及无私的奉献才是我们最大的追求”密码542531
+
+hacked by liner密码lin
+
+[华夏黑客小豪]Shell密码xiaohao
+
+121密码13311
+
+影子渗透优化马密码hack121314
+
+林浩网络工作室密码maya66
+
+最新款免杀ASP木马 密码admin
+
+提权网专版密码123456
+
+村长 密码1478523或maya66
+
+狼牙红刺 密码aishang
+
+Evil sadness 密码xiekekevin@123密码hyj123
+
+无味 密码woaizuozuo
+
+绝色神偷 密码baiduwocaoni74
+
+小淡个人专用asp木马 密码4422663
+
+nohack WebShell免杀版 – Beta3 密码8420910
+
+hkxs Door 密码hkmm
+
+那阁专用 QQ:858158308″ 密码10086
+
+暗组超强功能修正去后门加强S-U提权版 密码hkk007
+
+火狐ASP木马(超强版)” 华夏五周年庆典版 密码wrsk
+
+**（中国数据） 密码rinima
+
+asp 黑客→kissy 密码ceshi2009
+
+Evil sadness 密码5201314
+
+F.S.T 联盟交流群内部版.!别外传噢 密码rfkl
+
+username 密码847381979
+
+这是一个没有信仰的年代-.- 密码jing
+伟 密码winner
+沙漠之烟 密码4816535
+
+去演绎神话吧’ 密码zhack
+
+Sam,asp大马修正加强版 QQ:42466841 密码mama520
+
+fuck you 密码123go
+
+小武来了 密码1
+
+Baiki-” 密码1
+
+Login 密码888999
+
+E.V.A.V 专 用 网 马『修改版』密码13572468
+
+月满西楼 密码sasa
+
+蛋蛋WEBSHELL鼠年增强版 密码dangdang
+
+乄缘來④妳专版免杀asp大马 密码lovehack7758
+
+F.S.T 联盟交流群内部版.!别外传噢 密码rfkl
+
+暗组超强功能修正去后门加强S-U提权版 密码123
+
+80sec内部专用过世界杀软休积最小功能超强超猛宇宙第一asp 密码hkmm
+
+G.xp 专用 密码133135136Satan 密码1992724
+
+F.S.T 联盟交流群内部版!!!别外传噢!!! 密码yong
+
+Evil sadness 密码noid
+
+懂你味道 密码caodan
+
+黑鹰专用WEBSHELL 密码96315001
+
+思易免杀ASP木马3.0（最新两款） 密码admin
+
+ＴＸ－网络专用ASP木马 密码axiao
+
+username 密码847381979
+
+F.S.T 联盟交流群内部版.!别外传噢。” 密码rfkl
+
+GHOST永久免杀ASP木马 ghost 密码yuemo
+
+围剿专版 +口令 密码yuemo
+
+Miracle个人专用 密码12
+
+小武来了 密码535039
+
+唐宋元明清╯” 密码bzxyd
+
+安全检测 {BY：網丄邻居} |” 密码tonecan
+
+我要进去’ 密码bzxyd
+
+Evil sadness 密码5201314
+
+3E Security Team 密码3est
+
+败家简单前后门 密码sin
+
+F.S.T 海盗内部版.!别外传噢。by 海盗 密码654321
+
+蓝色灭杀 密码ghost
+
+HqzX 密码C
+
+F.S.T 联盟交流群内部版!!!别外传噢!!!” 密码yong
+
+webadmin2 密码webadmin
+
+login蓝色 密码5909062xzx
+
+红盟太子 密码iolhcw19891209
+
+管理登录 – 程序网络工作组ASP站点管理员 V1.02 密码admin
+
+商业 密码qwe32100
+
+华中帝国ASP木马QQ:860100371 密码xiaoke
+
+by OT小组 密码panda
+
+小黑专用ASP木马(超强版) 密码xiaoyu
+
+小小黑客精美提权超强版 密码123
+
+FACKYOU你妹啊 密码maomao3
+
+黑客风云[www.05112.org] 密码Acces
+
+少龙网络专版大马 密码123456
+
+by ⊿﹏儍气网络 密码596861877
+
+无我专版 密码jieshao
+
+带密码免杀的AspShell小马 密码hxhack
+
+MadDog_L专用 密码1024
+
+攻防无绝对，技术无黑白rl0KWY 密码1024
+
+灭绝师太 密码1024或520
+
+圣诞节 密码love
+
+yes黑客联盟 QQ：80026840″ 密码1
+
+夜狼黑客基地[Scott 、]” 密码574787
+
+ASP木马 密码ding130694343
+
+芝麻开门 密码1273568669
+
+无尽的渗透 密码NTIw或YXBwbGVxaQ==
+
+蛋蛋WebShell鼠年贺岁版 密码123456
+
+品名东方 QQ85345458 密码4133133
+
+技术的精纯及无私的奉献才是我们最大的追求 密码478421259
+
+小小黑客精美提权超强版 密码1992
+
+Evil sadness 密码admin123或者liyuru
+
+同一世界同一梦想！tlm 密码204298273196298273197298273
+
+H4ck Door 密码5121705或123或522500
+
+F.S.T 联盟交流群内部版!!!别外传噢!!!” 密码xm
+
+内谁 密码4911687
+
+史上最强ASP木马 密码5121705
+
+小强asp木马 密码laoduo
+
+网站自带程序，请勿删除 密码seo0510
+
+小可最炫ASP木马 密码xiaoke
+
+夜狼黑客基地[Scott 、]” 密码574787
+
+独占天涯友情检测大马 密码123456
+
+WebShell 夜鹰专版 密码cmder
+
+小刚asp木马 密码2131321
+
+Scott专用QQ：404094313 密码574787
+
+WebSHell 密码195298273203298273193298273193298273203298273
+
+BY：ヽ譕淚ツ緈福 密码wxb630513
+
+锐子专用大马 密码aa296419130
+
+HACKYCZ 密码8585392
+
+Wxy小组成员：阿布 密码8585392
+
+爱哇ASP木马 LoveWa 密码simin
+
+hackop专用ASP木马 密码135
+
+我专用滴哈` By:VL·-娶你ˉqq:164319296 密码116166
+
+有一个人叫龙井 密码8475352
+
+CnWxy 密码978332153
+
+終極丄谛专用版 密码wangzi
+
+妹子,走着!” 密码xiaobai
+
+子林WebShell个人专版版 密码464630316
+
+拼今生,對花對酒,爲伊落泪 密码admin$
+
+龙雨完全去后门 密码97086407
+
+BY：荭、色调 密码lzh
+
+小凯专用webshell大马 密码soojoy
+
+=”【gg】专版 密码gg
+
+提权Uz4s版本 密码axiao
+
+飞飞专用 shell 密码131524
+
+红盟安全网超强功能终极免杀VIP版 密码13141234567
+
+黑冰 专 用 网 马『修改版』密码sunhao
+
+醉入红尘梦专版 密码19860625
+
+洪城黑客联盟-小豪专用ASP木马 密码nishiwodeshei
+
+最恨VC-中国K.A.K专版免杀 密码vc或者vc110
+
+黑羽技术论坛 密码kaifeng
+
+中国红客联盟 密码yangxiaochou
+
+静流个人专版” 密码64559216或者697467
+
+懂你味道 密码wangluoheishou
+
+传说中的草泥马4.0 密码a或者admin
+
+[HxHacK]华夏黑客联盟 密码192298273208298273192298273185298273187298273195298273
+
+中国冥盟 密码xnhack
+
+asp马儿 密码admin
+
+TNTHK小组内部版 密码TNTHK
+
+无尽的渗透 密码NTIw
+
+勇少 密码admin或者suanle或者suanle.或者5858
+
+少龙 密码123456jin
+
+银河安全网专用ASP.NET木马V1.1 密码Hlly_
+
+XXXXX 密码Hlly_
+
+友情检测您的网站并已修补漏洞,管理员请放心并无挂马或破坏。” 密码admin
+
+蛋蛋WebShell鼠年贺岁版 密码dandan或者DGQAIZJJxx
+
+黑暗傀儡 密码love8
+
+By:暗鹰Roshell 密码bingke
+
+华中红客安全网专版Asp大马 密码my3800
+
+龍龍專用版 密码jianlong
+
+WEBSHELL 密码fanhexiang
+
+2011 密码hack135.
+
+str1ven 密码str1ven93
+
+ICE FISH 密码cc
+
+sxmQQ454846275 密码454846275或者ｓｘｍ
+
+Gu cci(445163245) 密码2564335
+
+豪少内部版 密码admin一句话密码120
+
+鬼徒 密码13141234567
+
+传说中的草泥马4.0 密码admin一句话密码a密码ｓｋｗｒ
+
+技术的精纯及无私的奉献才是我们最大的追求 密码kuangrenjishu或者xiaoxin
+
+helen 密码558
+
+冷血密码xch
+
+UnKnown 高级Vip防删收费版密码33201314
+
+少龙网络专用 禁止抄袭！QQ 772494705密码我只是装逼的
+
+By：Hacker丶微尘 密码80499712
+
+╰ァby﹎XD 密码10086
+
+什么玩意？？？. 密码hake
+
+那夜高级Vip防删收费版 密码1324520xxxx
+
+剑锋所指 所向披靡 じ玫瑰 密码789456
+
+死神 QQ 805336837 密码aaa
+
+黑客X档案会员学习专版（残剑QQ：463305929）” 密码hackerxl
+
+雪鹰 密码338956
+
+败家_关注网络信息安全 木有密码
+
+╰ァby﹎hackaya 密码5174187
+
+奥运版ASP木马(加强版) 密码!@#asd
+
+防刪除內部專用版 密码794743652
+
+绝色神偷专用 禁止抄袭！QQ 7206916 密码xxoo0
+
+免杀去后门版 BY 掩饰 密码yanshi
+
+admikes 密码xsd8196
+
+终极防删免杀多功能VIP版本-无后门 密码admin99或pipi
+
+AnXue 密码anxue03105
+
+TNTHK小组内部版 密码weizi
+
+黑夜网络安全 高级Vip防删收费版 密码hyvk
+
+hack2b 密码hack2b
+
+A-new高级Vip防删收费版 密码a-newadmin
+
+落寞入侵通道,不是本人请离开！密码31415926
+
+败笔网络小组★无奈 密码baibi
+
+Cracker-Mr.X 密码admin
+
+爱国同盟小健 密码xiaojian
+
+安全管理程序 密码ejgongfan
+
+Rooh&小航专用坐骑 密码860074或者!@#asd
+
+奥运版ASP木马(加强版) system 密码!@#asd
+
+By：书生 QQ：1182078889 密码1314
+
+tween dedicated website backdoors 密码6229534或者119或者tweenion123或者6229534520
+
+小子贼野 密码hc7777
+
+zahirll 密码hackcll
+
+r00ts小组 – Webshell 密码r00tshongchen
+
+剑心修改过世界杀软增强版 by:jianxin@80sec.com密码798146410或者80sec或者5201314
+
+→Ｈack涛专版 密码496500954
+
+多功能加强提权大马，免杀所有杀毒软件。 密码xiaoyu
+
+嘿！还真黑→→→专用 密码lizhiwei
+
+TNTHK小组内部版 密码147258
+
+BY Claepo 无后门 密码123456
+
+By:euxia QQ:5131834密码ambulong
+
+一个人的战争 密码whoami
+
+ASPXSpy 密码1314或者520或者cun或者angel或者test
+
+超强vip收费版(超强提权) 密码admin
+
+一笔√带过网络专用 禁止抄袭！QQ 342424178 密码chuonimei
+
+防刪除內部專用版 密码95599
+
+H4ck Door 密码hacker
+
+520 密码xiaojiu
+
+出处  密码：www.yuntest.org
+
+Hacker Kirin Webshell Xiaoma 木有密码
+
+狗一样的男人专用坐骑 密码dog一句话密码dog0man
+
+Guest’s5 密码123@@
+
+萧萧最强ASP木马 密码5088988
+
+布衣高级Vip防删收费版 密码sxc
+
+史上最强ASP木马 密码hacker
+
+10086 密码225588
+
+登陆 密码xm001
+
+狼牙红刺 密码love
+
+黑色禁区–by:cface 密码12345
+
+tween Shell 密码tweenion
+
+圣诞节 密码123
+
+Tween Special Backdoor Network 密码1396547668
+
+kather终极免杀asp大马 密码kather
+
+E网情深 密码hack999一句话密码zhr008
+
+XXXXX 密码147258
+
+80sec内部专用过世界杀软休积最小功能超强超猛宇宙第一asp 密码daokers
+
+2011 密码123456
+
+by 少龙网络 密码wanwan
+
+否否否否否否否否否否 密码1
+
+蛋 疼 密码19860625
+
+fou 密码xiaofou
+
+Dark Security Team 密码darkst
+
+By euxia QQ 5131834 密码darkst
+
+by:Sokh 密码admin26194213
+
+低调小云webshell vip 2010 密码520131422327635
+
+终极防删免杀多功能VIP版本-无后门 密码52088
+
+w 密码b
+
+勇少（Ｓｐｅｃｔｅｒ）终极免杀版 密码.
+
+豪杰幽月工作室 密码123
+
+QQ7780341 密码434301586
+
+有约 密码t
+
+【死灵网络友情检测！】 密码$siling
+
+Sunny 密码sunny
+
+hack 密码fengzi
+
+By:*!!泽少 QQ:876331461 密码897809
+
+360强化asp木马 密码36000
+
+hack-小虫 密码xc
+
+Crack8小马 密码Crack8
+
+管理登陆 密码haait
+
+鬼徒 密码13141234567
+
+Siliemor Shell 密码12312321321dssdfsf
+
+by:微尘 专用ASP僵尸大马 密码80499712
+
+酒鬼==制作→醉意==未解 密码jiugui
+
+T00LS 小K制作→法克僵尸 密码admin或者buyi或者xiaoya
+
+路遥知马力 密码aaa
+
+T00LS ＡＫＩＬＬ制作→法克僵尸 密码buyi
+
+苏打精美提权超强版 密码123
+
+差不多先生asp木马 密码1
+```
+
+根据上面的总结，使用正则匹`/?密码(.*)`配绝大部密码+在线工具去重+手工纠正，总共299条shell密码如下：  
+
+![](img/ShellPass.png)  
+
+```
+5201314
+china
+584521
+nohack
+45189946
+baidu
+123
+chenxue
+and
+cnot
+xxoxx
+rinima
+hkk007
+chengnuo
+”5556661221″
+‘123456
+wrsk
+54321
+yuemo
+xingainian
+jcksyes
+521
+*******
+4lert
+hacker
+xxxxx
+10011C120105101
+fclshark
+19880118
+376186027
+admin
+654321
+535039
+000
+darkst
+jcksyesHacker
+123456
+jinjinWebShell
+12345
+sq19880602
+jtk2352
+killEdu
+123321
+haode
+chuang
+981246
+et520
+winner
+12
+20080808
+yrpx
+ceshi2009
+rfkl
+847381979
+jing
+4816535
+zhack
+mama520
+123go
+1
+888999
+13572468
+sasa
+dangdang
+lovehack7758
+hkmm
+133135136
+1992724
+yong
+noid
+caodan
+96315001
+axiao
+bzxyd
+tonecan
+3est
+sin
+ghost
+C
+webadmin
+5909062xzx
+iolhcw19891209
+hehe
+5242129
+520
+yy520
+xuexue
+xiaobai
+tg
+hack19
+914
+7
+1234
+beyond
+zhu
+2010
+20010
+110
+2012
+sh
+147852
+chengmin
+mask
+linyu520
+hhtzgh
+007007
+xiaozan
+jiejie
+13822642918
+xiaojun
+yanhua
+a
+qqq
+yanghai
+168888
+latcue
+542531
+lin
+xiaohao
+13311
+hack121314
+maya66
+1478523
+aishang
+xiekekevin@123
+hyj123
+woaizuozuo
+baiduwocaoni74
+4422663
+8420910
+10086
+133135136Satan
+qwe32100
+xiaoke
+panda
+xiaoyu
+maomao3
+Acces
+596861877
+jieshao
+hxhack
+1024
+love
+574787
+ding130694343
+1273568669
+NTIw
+YXBwbGVxaQ==
+4133133
+478421259
+1992
+admin123
+liyuru
+204298273196298273197298273
+5121705
+522500
+xm
+4911687
+laoduo
+seo0510
+cmder
+2131321
+195298273203298273193298273193298273203298273
+wxb630513
+aa296419130
+8585392
+simin
+135
+116166
+8475352
+978332153
+wangzi
+464630316
+admin$
+97086407
+lzh
+soojoy
+gg
+131524
+13141234567
+sunhao
+19860625
+nishiwodeshei
+vc
+vc110
+kaifeng
+yangxiaochou
+64559216
+697467
+wangluoheishou
+192298273208298273192298273185298273187298273195298273
+xnhack
+TNTHK
+suanle
+suanle.
+5858
+123456jin
+Hlly_
+dandan
+DGQAIZJJxx
+love8
+bingke
+my3800
+jianlong
+fanhexiang
+hack135.
+str1ven93
+cc
+454846275
+ｓｘｍ
+2564335
+120
+ｓｋｗｒ
+kuangrenjishu
+xiaoxin
+558
+xch
+33201314
+我只是装逼的
+80499712
+hake
+1324520xxxx
+789456
+aaa
+hackerxl
+338956
+5174187
+!@#asd
+794743652
+xxoo0
+yanshi
+xsd8196
+admin99
+pipi
+anxue03105
+weizi
+hyvk
+hack2b
+a-newadmin
+31415926
+baibi
+xiaojian
+ejgongfan
+860074
+1314
+6229534
+119
+tweenion123
+6229534520
+hc7777
+hackcll
+r00tshongchen
+798146410
+80sec
+496500954
+lizhiwei
+147258
+ambulong
+whoami
+cun
+angel
+test
+chuonimei
+95599
+xiaojiu
+www.yuntest.org
+dog0man
+123@@
+5088988
+sxc
+225588
+xm001
+tweenion
+1396547668
+kather
+hack999
+zhr008
+daokers
+wanwan
+xiaofou
+admin26194213
+520131422327635
+52088
+b
+.
+434301586
+t
+$siling
+sunny
+fengzi
+897809
+36000
+xc
+Crack8
+haait
+12312321321dssdfsf
+jiugui
+buyi
+xiaoya
+```
