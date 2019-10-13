@@ -2,7 +2,11 @@
 
 #### BurpSuite 相关收集项目，插件主要是非BApp Store（商店）
 
-### burpsuite pro 1.37 crack 破解: [传送门](./crack.md)  
+> 所有的破解汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
+
+### burpsuite pro 1.37 crack 破解: [中文版](./books/burpsuite破解-汉化-使用指导.docx) [英文版](./crack.md)    
+
+### 打包了基本的burp,插件和汉化包等: [下载](https://github.com/Mr-xn/BurpSuite-collections/releases)  
 ### [BurpSuite_pro_v2.1破解版.rar](https://mir.cr/1XKFLGFW)
 > (有能力请支持正版，本项目仅用于学习研究使用！)  
 
