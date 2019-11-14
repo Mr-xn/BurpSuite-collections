@@ -24,6 +24,7 @@
 |   +--- burp 日志插件「burplogger++.jar」从原理到实践-信安之路.pdf
 |   +--- BurpSuite 代理设置的小技巧.pdf
 |   +--- burpsuite实战指南.pdf
+|   +--- burpsuite破解-汉化-使用指导.docx
 |   +--- Configuring Burp Suite with Android Nougat.pdf
 |   +--- IOS之Burpsuite抓Https问题.pdf
 |   +--- nmap-man-page.pdf
@@ -35,6 +36,7 @@
 |   +--- 如何在64位Windows 10下安装java开发环境.pdf
 |   +--- 新手福利 _ Burpsuite你可能不知道的技巧.pdf
 |   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
+|   +--- 配置Frida+BurpSuite+Genymotion, 绕过Android SSL Pinning-Configuring Frida with BurpSuite and Genymotion to bypass SSL Pinning.pdf
 +--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
 +--- burpsuite_pro_v1.7.37.jar
@@ -58,6 +60,7 @@
 |   +--- Goescat-Macaron-Burp-suite.ico
 |   +--- hackbar.gif
 |   +--- passive-scan-client-0.1-jar-with-dependencies.gif
+|   +--- ShellPass.png
 |   +--- u2cTab.png
 +--- Mrxn's Blog.url
 +--- plugins
@@ -68,6 +71,8 @@
 |   +--- chunked-coding-converter.0.2.1.jar
 |   +--- domain_hunter-v1.4.jar
 |   +--- HackBar.jar
+|   +--- http-request-smuggler-all.jar
+|   +--- httpsmuggler.jar
 |   +--- jsEncrypter.0.3
 |   |   +--- jsEncrypter-0.3.jar
 |   |   +--- jsEncrypter_readme.pdf
@@ -83,11 +88,12 @@
 |   +--- Readme.md
 |   +--- reCAPTCHA-v0.9.jar
 |   +--- sqlmap.jar
-|   +--- sqlmap4burp-plus-plus-0.1-jar-with-dependencies.jar
+|   +--- sqlmap4burp++.0.2.jar
 +--- README.md
 +--- 创建桌面快捷方式.bat
 +--- 创建桌面快捷方式.zip
 +--- 吾爱破解论坛.url
++--- 常见shell大小马密码.md
 +--- 渗透测试面试问题2019版.md
 
 ```
@@ -99,7 +105,7 @@
 
 - **httpsmuggler.jar** --- 一款辅助绕过WAF的插件，[详细说明](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
 - **http-request-smuggler-all.jar** ---HTTP走私攻击检查插件，相关文章：[记一次走私请求学习](https://xz.aliyun.com/t/6299)
-- **sqlmap4burp-plus-plus-0.1-jar-with-dependencies.jar** ---多平台无需外部依赖的burp联动sqlmap插件，使用也很简单，导入在burp拦截的请求里或者重放都可以直接发送到sqlmap4burp界面，第一次需要选择sqlmap.py文件位置进行设置，详细的可以看[飘雪表哥-c0ny1源处](https://github.com/c0ny1/sqlmap4burp-plus-plus)。
+- **sqlmap4burp++.0.2.jar** ---多平台无需外部依赖的burp联动sqlmap插件，使用也很简单，导入在burp拦截的请求里或者重放都可以直接发送到sqlmap4burp界面，第一次需要选择sqlmap.py文件位置进行设置，详细的可以看[飘雪表哥-c0ny1源处](https://github.com/c0ny1/sqlmap4burp-plus-plus)。
 - **passive-scan-client-0.1-jar-with-dependencies.jar** --- Burp被动扫描流量转发插件,比如搭配长亭的[`XRAY`](https://github.com/chaitin/xray)来进行被动扫描，借用群里表哥的话:~~挂着坐收洞~~。[详细说明](https://github.com/c0ny1/passive-scan-client/blob/master/README.md),演示动图: ![](./img/passive-scan-client-0.1-jar-with-dependencies.gif)
 
 - **domain_hunter-1.4.jar** --- 利用 burp 收集整个企业、组织的域名（不仅仅是单个主域名）的插件。[详细说明](https://github.com/bit4woo/domain_hunter/blob/master/README.md)
