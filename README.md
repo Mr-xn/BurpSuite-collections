@@ -10,6 +10,7 @@
 ### [BurpSuite_pro_v2.1破解版.rar](https://mir.cr/1XKFLGFW)
 ### [Burp_Suite_Pro_v2.1.04_Loader_Keygen](https://mir.cr/MZVYTZIL)
 ### [burpsuite_pro_v2.1.05](https://github.com/Mr-xn/BurpSuite-collections/releases/tag/2.1.05)
+### [burpsuite_pro_v2.1.06](https://github.com/Mr-xn/BurpSuite-collections/releases/tag/2.1.06)
 > (有能力请支持正版，本项目仅用于学习研究使用！)  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
