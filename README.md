@@ -105,6 +105,9 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **WooyunSearch-1.0-SNAPSHOT-jar-with-dependencies.jar** --- 从wooyun中提取payload辅助渗透,[详细说明](https://github.com/boy-hack/wooyun-payload/blob/master/README.md)
+![](https://raw.githubusercontent.com/boy-hack/wooyun-payload/master/images/wooyunpayload.gif)
+
 - **httpsmuggler.jar** --- 一款辅助绕过WAF的插件，[详细说明](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
 - **http-request-smuggler-all.jar** ---HTTP走私攻击检查插件，相关文章：[记一次走私请求学习](https://xz.aliyun.com/t/6299)
 - **sqlmap4burp++.0.2.jar** ---多平台无需外部依赖的burp联动sqlmap插件，使用也很简单，导入在burp拦截的请求里或者重放都可以直接发送到sqlmap4burp界面，第一次需要选择sqlmap.py文件位置进行设置，详细的可以看[飘雪表哥-c0ny1源处](https://github.com/c0ny1/sqlmap4burp-plus-plus)。
