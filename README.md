@@ -105,6 +105,9 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **J2EEScan-2.0.0-beta-jar-with-dependencies.jar** ---对于J2EE程序扫描很好用的一个插件，商店版是老版本，作者几天前在GitHub更新了，但是商店没有更新，故这里加入。[源处](https://github.com/ilmila/J2EEScan),没有编译，我代为编译，带有依赖，导入即可使用。  
+![J2EEScan](./img/issues-example.png)  
+![J2EEScan](./img/issues-example2.png)  
 - **WooyunSearch-1.0-SNAPSHOT-jar-with-dependencies.jar** --- 从wooyun中提取payload辅助渗透,[详细说明](https://github.com/boy-hack/wooyun-payload/blob/master/README.md)
 ![](https://raw.githubusercontent.com/boy-hack/wooyun-payload/master/images/wooyunpayload.gif)
 
