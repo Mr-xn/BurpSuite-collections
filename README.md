@@ -2,16 +2,9 @@
 
 #### BurpSuite 相关收集项目，插件主要是非BApp Store（商店）
 
-> 所有的破解汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
+> 所有的汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
 
-### burpsuite pro 1.37 crack 破解: [中文版](./books/burpsuite破解-汉化-使用指导.docx) [英文版](./crack.md)    
-
-### 打包了基本的burp,插件和汉化包等: [下载](https://github.com/Mr-xn/BurpSuite-collections/releases)  
-### [BurpSuite_pro_v2.1破解版.rar](https://mir.cr/1XKFLGFW)
-### [Burp_Suite_Pro_v2.1.04_Loader_Keygen](https://mir.cr/MZVYTZIL)
-### [burpsuite_pro_v2.1.05](https://github.com/Mr-xn/BurpSuite-collections/releases/tag/2.1.05)
-### [burpsuite_pro_v2.1.06](https://github.com/Mr-xn/BurpSuite-collections/releases/tag/2.1.06)
-> (有能力请支持正版，本项目仅用于学习研究使用！)  
+> (有能力请支持正版，本项目仅用于学习研究使用！不再提供破解版！)  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
@@ -26,7 +19,6 @@
 |   +--- burp 日志插件「burplogger++.jar」从原理到实践-信安之路.pdf
 |   +--- BurpSuite 代理设置的小技巧.pdf
 |   +--- burpsuite实战指南.pdf
-|   +--- burpsuite破解-汉化-使用指导.docx
 |   +--- Configuring Burp Suite with Android Nougat.pdf
 |   +--- IOS之Burpsuite抓Https问题.pdf
 |   +--- nmap-man-page.pdf
@@ -39,18 +31,14 @@
 |   +--- 新手福利 _ Burpsuite你可能不知道的技巧.pdf
 |   +--- 本地文件包含漏洞检测工具 – Burp国产插件LFI scanner checks.pdf
 |   +--- 配置Frida+BurpSuite+Genymotion, 绕过Android SSL Pinning-Configuring Frida with BurpSuite and Genymotion to bypass SSL Pinning.pdf
-+--- burp-loader-keygen.jar
 +--- BurpSuiteCn.jar
-+--- burpsuite_pro_v1.7.37.jar
 +--- Burp_start.bat
 +--- Burp_start_en.bat
 +--- cn.txt
-+--- crack.md
 +--- Create-Desktop-Link.bat
 +--- GitZip-for-github_v0.3.1.crx
 +--- img
 |   +--- ANSI.png
-|   +--- BurpSuite破解版汉化脚本.gif
 |   +--- crack1.png
 |   +--- crack2.png
 |   +--- crack3.png
@@ -61,9 +49,12 @@
 |   +--- desktop_shortlink.png
 |   +--- Goescat-Macaron-Burp-suite.ico
 |   +--- hackbar.gif
+|   +--- issues-example.png
+|   +--- issues-example2.png
 |   +--- passive-scan-client-0.1-jar-with-dependencies.gif
 |   +--- ShellPass.png
 |   +--- u2cTab.png
+|   +--- 登上GitHub的trending截图纪念.png
 +--- Mrxn's Blog.url
 +--- plugins
 |   +--- awesome-burp-extensions
@@ -75,6 +66,7 @@
 |   +--- HackBar.jar
 |   +--- http-request-smuggler-all.jar
 |   +--- httpsmuggler.jar
+|   +--- J2EEScan-2.0.0-beta-jar-with-dependencies.jar
 |   +--- jsEncrypter.0.3
 |   |   +--- jsEncrypter-0.3.jar
 |   |   +--- jsEncrypter_readme.pdf
@@ -83,7 +75,7 @@
 |   |   +--- README.md
 |   |   +--- 对登录中账号密码进行加密之后再传输的爆破的思路和方式 - FreeBuf互联网安全新媒体平台.pdf
 |   |   +--- 编写加密传输爆破插件jsEncrypter _ 回忆飘如雪.pdf
-|   +--- knife-v1.5.jar
+|   +--- knife-1.6.jar
 |   +--- LFI scanner checks.jar
 |   +--- LoggerPlusPlus.jar
 |   +--- passive-scan-client-0.1-jar-with-dependencies.jar
@@ -91,10 +83,10 @@
 |   +--- reCAPTCHA-v0.9.jar
 |   +--- sqlmap.jar
 |   +--- sqlmap4burp++.0.2.jar
+|   +--- WooyunSearch-1.0-SNAPSHOT-jar-with-dependencies.jar
 +--- README.md
 +--- 创建桌面快捷方式.bat
 +--- 创建桌面快捷方式.zip
-+--- 吾爱破解论坛.url
 +--- 常见shell大小马密码.md
 +--- 渗透测试面试问题2019版.md
 
@@ -148,16 +140,14 @@
 
 #### 汉化起因
 
-前阵子在**先知**上有朋友发了一个汉化的教程，但是需要手动输入这些命令而且还容易出错，故，我在此基础上写了个一键自动生成桌面快捷方式加上汉化启动。先上图：汉化+桌面快捷方式的一键启动效果：
-
-![BurpSuite破解版汉化脚本.gif](./img/BurpSuite破解版汉化脚本.gif)
+前阵子在**先知**上有朋友发了一个汉化的教程，但是需要手动输入这些命令而且还容易出错，故，我在此基础上写了个一键自动生成桌面快捷方式加上汉化启动。
 
 ##### 使用方法：
 
 ##### 注意：如果下载完的bat文件编码不是`ANSI`，而且换行不是`CRLF`，你运行`创建桌面快捷方式.bat` 就会出错。需要用记事本打开重新保存编码为`ANSI`即可，换行可以用VSCODE这类代码编辑器来更改。实在不想自己搞得就下载项目里面的[创建桌面快捷方式.zip](./创建桌面快捷方式.zip)解压到项目根目录再运行。  
 ![](./img/ANSI.png)  
 ![](./img/CRLF_ANSI.png)  
-成功创建后桌面可以看到【前提是已经破解过burpsuite了，[传送门](./crack.md)】：  
+成功创建后桌面可以看到【前提是已经能正常打开burpsuite】：  
 ![](./img/desktop_shortlink.png)  
 
 如果你习惯`【推荐】`英文不想使用汉化版的，直接运行`Create Desktop Link.bat` 即可创建英文版的桌面快捷方式，当然你也可以两个都创建。*(汉化版在某些插件上面会出现各种 **UI** **BUG** ，如果你的 Burp 界面出现了 BUG 请切换英文原版试试)*
