@@ -98,26 +98,21 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **captcha-killer.0.1.1.jar** ---burp验证码识别接口调用插件。[源处](https://github.com/c0ny1/captcha-killer)
 - **burp-requests.jar** ---将burp的request直接转换成python的requests库格式代码。[源处](https://github.com/silentsignal/burp-requests)
 - **J2EEScan-2.0.0-beta.2-jar-with-dependencies.jar** ---对于J2EE程序扫描很好用的一个插件，商店版是老版本，作者几天前在GitHub更新了，但是商店没有更新，故这里加入。[源处](https://github.com/ilmila/J2EEScan),没有编译，我代为编译，带有依赖，导入即可使用。  
 ![J2EEScan](./img/issues-example.png)  
 ![J2EEScan](./img/issues-example2.png)  
 - **WooyunSearch-1.0-SNAPSHOT-jar-with-dependencies.jar** --- 从wooyun中提取payload辅助渗透,[详细说明](https://github.com/boy-hack/wooyun-payload/blob/master/README.md)
 ![](https://raw.githubusercontent.com/boy-hack/wooyun-payload/master/images/wooyunpayload.gif)
-
 - **httpsmuggler.jar** --- 一款辅助绕过WAF的插件，[详细说明](https://github.com/nccgroup/BurpSuiteHTTPSmuggler)
 - **http-request-smuggler-all.jar** ---HTTP走私攻击检查插件，相关文章：[记一次走私请求学习](https://xz.aliyun.com/t/6299)
 - **sqlmap4burp++.0.2.jar** ---多平台无需外部依赖的burp联动sqlmap插件，使用也很简单，导入在burp拦截的请求里或者重放都可以直接发送到sqlmap4burp界面，第一次需要选择sqlmap.py文件位置进行设置，详细的可以看[飘雪表哥-c0ny1源处](https://github.com/c0ny1/sqlmap4burp-plus-plus)。
 - **passive-scan-client-0.1-jar-with-dependencies.jar** --- Burp被动扫描流量转发插件,比如搭配长亭的[`XRAY`](https://github.com/chaitin/xray)来进行被动扫描，借用群里表哥的话:~~挂着坐收洞~~。[详细说明](https://github.com/c0ny1/passive-scan-client/blob/master/README.md),演示动图: ![](./img/passive-scan-client-0.1-jar-with-dependencies.gif)
-
 - **domain_hunter-1.4.jar** --- 利用 burp 收集整个企业、组织的域名（不仅仅是单个主域名）的插件。[详细说明](https://github.com/bit4woo/domain_hunter/blob/master/README.md)
-
 - **reCAPTCHA.v0.9.jar** --- Burpsuite intruder 用于爆破模块验证码的自动识别插件，详细使用请看这里：[使用说明](https://github.com/bit4woo/reCAPTCHA/blob/master/README.md)
-
 - **knife-1.6.jar** --- [bit4](https://github.com/bit4woo/knife/blob/master/README-zh.md)表哥开发的一款 `burpsuite` 增强功能插件，主要是增加右键菜单功能(包含 `hackbar++` 插件功能)，同时增加 `Tab` 区域，比如 `U2C`(将 Unicode 形式的字符转换为中文，比如 `\u4e2d\u6587`-->`中文`)，非常实用的功能，可以在测试的时候提高效率，效果如图：![U2C](./img/u2cTab.png)
-
 - **LoggerPlusPlus.jar** --- 顾名思义，就是 burpsuite 的日志插件，不过是增强版本，如果你不满足 burpsuite 自带得日志功能，来试试她吧！just join it! 详细介绍看[项目地址](https://github.com/nccgroup/BurpSuiteLoggerPlusPlus) 我目前添加的是 Version v3.13-beta release.
-
 - **HackBar.jar** --- 做渗透测试的早一点的都知道老版本火狐的HackBar插件吧，这个Burpsuite的类似的功能，详细的可以看项目源地址看 — [HackBar](https://github.com/d3vilbug/HackBar) 动图如下：
 
 ![HackBar演示](./img/hackbar.gif)
