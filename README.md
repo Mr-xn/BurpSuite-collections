@@ -98,6 +98,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **burpJsEncrypter-0.1-jar-with-dependencies.jar** ---一款更易使用的解决前端加密问题的Burp插件。[源处](https://github.com/TheKingOfDuck/burpJsEncrypter)
 - **captcha-killer.0.1.1.jar** ---burp验证码识别接口调用插件。[源处](https://github.com/c0ny1/captcha-killer)
 - **burp-requests.jar** ---将burp的request直接转换成python的requests库格式代码。[源处](https://github.com/silentsignal/burp-requests)
 - **J2EEScan-2.0.0-beta.2-jar-with-dependencies.jar** ---对于J2EE程序扫描很好用的一个插件，商店版是老版本，作者几天前在GitHub更新了，但是商店没有更新，故这里加入。[源处](https://github.com/ilmila/J2EEScan),没有编译，我代为编译，带有依赖，导入即可使用。  
