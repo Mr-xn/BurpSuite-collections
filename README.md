@@ -4,7 +4,7 @@
 
 > 所有的汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
 
-> (本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite)下载最新[burpsuite_pro_v2020.4.jar&burp-loader-keygen-2020_4.jar download](https://mrxn.net/hacktools/661.html))  
+> (本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite)下载最新[burpsuite_pro_v2020.4.1.jar&burp-loader-keygen-2020_4_1.jar download](https://mrxn.net/hacktools/663.html))  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
@@ -98,6 +98,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **IntelligentAnalysis-SSTVINFO** ---一款用于发现Response包含的敏感信息，基于python开发的burp插件。[SSTVINFO源处](https://github.com/nian-hua/BurpExtender)
 - **burpJsEncrypter-0.1-jar-with-dependencies.jar** ---一款更易使用的解决前端加密问题的Burp插件。[源处](https://github.com/TheKingOfDuck/burpJsEncrypter)
 - **captcha-killer.0.1.1.jar** ---burp验证码识别接口调用插件。[源处](https://github.com/c0ny1/captcha-killer)
 - **burp-requests.jar** ---将burp的request直接转换成python的requests库格式代码。[源处](https://github.com/silentsignal/burp-requests)
