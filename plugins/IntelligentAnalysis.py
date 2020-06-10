@@ -13,7 +13,6 @@ from burp import IMessageEditorTab
 from burp import IMessageEditorTabFactory
 
 
-
 class BurpExtender(IBurpExtender, IProxyListener, IMessageEditorTabFactory):
 
     #
@@ -67,10 +66,11 @@ class BurpExtender(IBurpExtender, IProxyListener, IMessageEditorTabFactory):
         if stringIsAssets(msg):
             messageInfo.setHighlight('yellow')
 
+        if stringIsEmail(msg):
+            messageInfo.setHighlight('pink')
 
 
 class SstvInfoTab(IMessageEditorTab):
-
     def __init__(self, extender, controller, editable):
 
         self._extender = extender
@@ -98,8 +98,9 @@ class SstvInfoTab(IMessageEditorTab):
             pretty_msg = ''
             phone = stringIsPhone(content)
             idcard = stringIsIdCard(content)
-            gpslocal = stringIsGps(False,content)
+            gpslocal = stringIsGps(False, content)
             assets = stringIsAssets(content)
+            email = stringIsEmail(content)
             if phone != False:
                 pretty_msg += "Find phone:" + phone + '\n'
             if idcard != False:
@@ -108,6 +109,8 @@ class SstvInfoTab(IMessageEditorTab):
                 pretty_msg += "Find GpsLocal:" + gpslocal + '\n'
             if assets != False:
                 pretty_msg += "Find IP Address:" + assets + '\n'
+            if email != False:
+                pretty_msg += "Find Email Address:" + email + '\n'
             self._txtInput.setText(pretty_msg)
         return
 
@@ -115,7 +118,9 @@ class SstvInfoTab(IMessageEditorTab):
 def stringIsGps(Xhacker, string):  # check GPS information
     if Xhacker:
         return False
-    if ("\"longitude\"" in string and "\"latitude\"" in string) or ("\"lat\"" in string and "\"lon\"" in string):
+    if ("\"longitude\"" in string
+            and "\"latitude\"" in string) or ("\"lat\"" in string
+                                              and "\"lon\"" in string):
         locations = re.findall(r'\d{2,3}\.\d{3,6}', string)
         for location in locations:
             if 3 < float(location) < 135:
@@ -124,7 +129,9 @@ def stringIsGps(Xhacker, string):  # check GPS information
 
 
 def stringIsPhone(string):
-    iphones = re.findall(r'[%"\'< ](?:13[012]\d{8}[%"\'< ]|15[56]\d{8}[%"\'< ]|18[56]\d{8}[%"\'< ]|176\d{8}[%"\'< ]|145\d{8}[%"\'< ]|13[456789]\d{8}[%"\'< ]|147\d{8}[%"\'< ]|178\d{8}[%"\'< ]|15[012789]\d{8}[%"\'< ]|18[23478]\d{8}[%"\'< ]|133\d{8}[%"\'< ]|153\d{8}[%"\'< ]|189\d{8}[%"\'< ])', string)
+    iphones = re.findall(
+        r'[%"\'< ](?:13[012]\d{8}[%"\'< ]|15[56]\d{8}[%"\'< ]|18[56]\d{8}[%"\'< ]|176\d{8}[%"\'< ]|145\d{8}[%"\'< ]|13[456789]\d{8}[%"\'< ]|147\d{8}[%"\'< ]|178\d{8}[%"\'< ]|15[012789]\d{8}[%"\'< ]|18[23478]\d{8}[%"\'< ]|133\d{8}[%"\'< ]|153\d{8}[%"\'< ]|189\d{8}[%"\'< ])',
+        string)
     if iphones != []:
         iphones = set(iphones)
         iphoneSet = set()
@@ -134,8 +141,11 @@ def stringIsPhone(string):
         return iphones
     return False
 
+
 def stringIsAssets(string):
-    assets = re.findall(r'\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b', string)
+    assets = re.findall(
+        r'\b(?:(?:25[0-5]|2[0-4][0-9]|[1]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b',
+        string)
     if assets != []:
         assetss = set(assets)
         assetsSet = set()
@@ -145,10 +155,26 @@ def stringIsAssets(string):
         return assetss
     return False
 
+
+def stringIsEmail(string):
+    emails = re.findall(
+        r'[\w!#$%&\'*+/=?^_`{|}~-]+(?:\.[\w!#$%&\'*+/=?^_`{|}~-]+)*@(?:[\w](?:[\w-]*[\w])?\.)+[\w](?:[\w-]*[\w])?',
+        string)
+    if emails != []:
+        emails = set(emails)
+        emailSet = set()
+        for i in emails:
+            emailSet.add(i)
+        emails = ','.join(emailSet)
+        return emails
+    return False
+
+
 def stringIsIdCard(string):
     coefficient = [7, 9, 10, 5, 8, 4, 2, 1, 6, 3, 7, 9, 10, 5, 8, 4, 2]
     parityBit = '10X98765432'
-    idcards = re.findall(r'([1-8][1-7]\d{4}[1|2]\d{3}[0|1]\d{1}[1-3]\d{4}[0-9|X|x])', string)
+    idcards = re.findall(
+        r'([1-8][1-7]\d{4}[1|2]\d{3}[0|1]\d{1}[0-3]\d{4}[0-9|X|x])', string)
     idcardSet = set()
     if idcards != []:
         for idcard in idcards:

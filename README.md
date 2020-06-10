@@ -99,6 +99,9 @@
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
 - **IntelligentAnalysis-SSTVINFO** ---一款用于发现Response包含的敏感信息，基于python开发的burp插件。[SSTVINFO源处](https://github.com/nian-hua/BurpExtender)
+
+![](./img/IntelligentAnalysis.png)
+
 - **burpJsEncrypter-0.1-jar-with-dependencies.jar** ---一款更易使用的解决前端加密问题的Burp插件。[源处](https://github.com/TheKingOfDuck/burpJsEncrypter)
 - **captcha-killer.0.1.1.jar** ---burp验证码识别接口调用插件。[源处](https://github.com/c0ny1/captcha-killer)
 - **burp-requests-v0.2.4.jar** ---将burp的request直接转换成python的requests库格式代码。[源处](https://github.com/silentsignal/burp-requests)
