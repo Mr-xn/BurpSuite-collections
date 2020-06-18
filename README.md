@@ -98,7 +98,9 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
-- **IntelligentAnalysis-SSTVINFO** ---一款用于发现Response包含的敏感信息，基于python开发的burp插件。[SSTVINFO源处](https://github.com/nian-hua/BurpExtender)
+- **Burp_AES_Plugin** --- 一款用于爆破AES加密CBC模式的爆破插件，使用之前需要修改`src/main/java/burp/BurpExtender.java` 当中的`key`和`iv` 值，然后使用`mvn install` 编译即可。[出处](https://github.com/jas502n/Burp_AES_Plugin)
+
+- **IntelligentAnalysis-SSTVINFO** ---一款用于发现Response包含的敏感信息，基于python开发的burp插件。[SSTVINFO源处](https://github.com/nian-hua/BurpExtender) 修改过带有邮箱识别加IP地址修正的版本在插件目录[下载](./plugins/IntelligentAnalysis.py)。
 
 ![](./img/IntelligentAnalysis.png)
 
