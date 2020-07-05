@@ -4,7 +4,7 @@
 
 > 所有的汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
 
-> (本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite)下载最新[burpsuite_pro_v2020.5.1.jar&burp-loader-keygen-2020_4_1.jar download](https://mrxn.net/hacktools/665.html))  
+> (本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite)下载最新[burpsuite_pro_v2020.6.jar&burp-loader-keygen-2020_4_1.jar download](https://mrxn.net/hacktools/665.html))  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
