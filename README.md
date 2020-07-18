@@ -4,7 +4,7 @@
 
 > 所有的汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
 
-> (本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite)下载最新[burpsuite_pro_v2020.6.jar&burp-loader-keygen-2020_4_1.jar download](https://mrxn.net/hacktools/665.html))  
+> (本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite)下载最新[burpsuite_pro_v2020.7.jar&BurpSuiteLoader.jar download](https://mrxn.net/hacktools/665.html))  
 
 ### [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
@@ -98,8 +98,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpSuite-Extender-fastjson** ---一款自动检测fastjson rce的py插件，可检测1.2.24和1.2.47。若存在漏洞自动标注该流量，并在output中输出内容。[源处](https://github.com/uknowsec/BurpSuite-Extender-fastjson)
 - **Burp_AES_Plugin** --- 一款用于爆破AES加密CBC模式的爆破插件，使用之前需要修改`src/main/java/burp/BurpExtender.java` 当中的`key`和`iv` 值，然后使用`mvn install` 编译即可。[出处](https://github.com/jas502n/Burp_AES_Plugin)
-
 - **IntelligentAnalysis-SSTVINFO** ---一款用于发现Response包含的敏感信息，基于python开发的burp插件。[SSTVINFO源处](https://github.com/nian-hua/BurpExtender) 修改过带有邮箱识别加IP地址修正的版本在插件目录[下载](./plugins/IntelligentAnalysis.py)。
 
 ![](./img/IntelligentAnalysis.png)
