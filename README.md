@@ -85,6 +85,7 @@
 |   +--- sqlmap.jar
 |   +--- sqlmap4burp++.0.2.jar
 |   +--- WooyunSearch-1.0-SNAPSHOT-jar-with-dependencies.jar
+|   +--- shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar
 +--- README.md
 +--- 创建桌面快捷方式.bat
 +--- 创建桌面快捷方式.zip
@@ -97,6 +98,10 @@
 ##### 插件目录 plugins 介绍:
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
+
+- **shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar** ---一款Shiro回显Burp插件(支持Burp被动扫描功能)，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar)，[详细介绍说明及源处](https://github.com/potats0/shiroPoc) 
+
+![](./img/shiroPoc.png) 
 
 - **BurpSuite-Extender-fastjson** ---一款自动检测fastjson rce的py插件，可检测1.2.24和1.2.47。若存在漏洞自动标注该流量，并在output中输出内容。[源处](https://github.com/uknowsec/BurpSuite-Extender-fastjson)
 - **Burp_AES_Plugin** --- 一款用于爆破AES加密CBC模式的爆破插件，使用之前需要修改`src/main/java/burp/BurpExtender.java` 当中的`key`和`iv` 值，然后使用`mvn install` 编译即可。[出处](https://github.com/jas502n/Burp_AES_Plugin)
