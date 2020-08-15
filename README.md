@@ -99,6 +99,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **passive-scan-client-and-sendto** ---一款burp被动扫描自动转发和手动重发插件，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/passive-scan-client-and-sendto.jar)，[详细介绍说明](https://github.com/Conanjun/passive-scan-client-and-sendto)
+![](./img/passive-scan-client-and-sendto.png)  
 - **shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar** ---一款Shiro回显Burp插件(支持Burp被动扫描功能)，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar)，[详细介绍说明及源处](https://github.com/potats0/shiroPoc) 
 
 ![](./img/shiroPoc.png) 
