@@ -99,6 +99,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpSuite-Xkeys** ---一款由国外师傅基于python编写的提取网页敏感信息插件，类似与前期推荐的年华师傅写的`IntelligentAnalysis-SSTVINFO`插件功能，欢迎体验使用。[下载以及详细说明](https://github.com/vsec7/BurpSuite-Xkeys)
+![](https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/result.png)
 - **passive-scan-client-and-sendto** ---一款burp被动扫描自动转发和手动重发插件，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/passive-scan-client-and-sendto.jar)，[详细介绍说明](https://github.com/Conanjun/passive-scan-client-and-sendto)
 ![](./img/passive-scan-client-and-sendto.png)  
 - **shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar** ---一款Shiro回显Burp插件(支持Burp被动扫描功能)，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar)，[详细介绍说明及源处](https://github.com/potats0/shiroPoc) 
