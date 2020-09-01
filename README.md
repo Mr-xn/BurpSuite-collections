@@ -99,6 +99,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **shiro-check** ---Shiro反序列化回显利用检查 Burp插件，[源项目下载](https://github.com/bigsizeme/shiro-check)
+![](https://github.com/bigsizeme/shiro-check/blob/master/img/ZV%605%24%5BAM%7D~LW7Z%24H2316Q%24T.png)![](https://github.com/bigsizeme/shiro-check/blob/master/img/check.png)
 - **FastjsonScan** ---由阿信师傅开发的检测Fastjson反序列化的burp插件，[FastjsonScan.jar下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/FastjsonScan.jar)，[源码](https://github.com/Maskhe/FastjsonScan) 
 ![](https://github.com/Maskhe/FastjsonScan/blob/master/images/json.png)
 - **BurpSuite-Xkeys** ---一款由国外师傅基于python编写的提取网页敏感信息插件，类似与前期推荐的年华师傅写的`IntelligentAnalysis-SSTVINFO`插件功能，欢迎体验使用。[下载以及详细说明](https://github.com/vsec7/BurpSuite-Xkeys)
