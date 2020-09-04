@@ -99,6 +99,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpShiroPassiveScan** ---一款基于BurpSuite的被动式shiro检测插件，目前有两大功能1.shiro框架指纹检测 2.shiro加密key检测 [源处](https://github.com/pmiaowu/BurpShiroPassiveScan) 
+![](https://raw.githubusercontent.com/pmiaowu/BurpShiroPassiveScan/master/Docs/images/8.png) 
 - **shiro-check** ---Shiro反序列化回显利用检查 Burp插件，[源项目下载](https://github.com/bigsizeme/shiro-check)
 ![](https://github.com/bigsizeme/shiro-check/blob/master/img/ZV%605%24%5BAM%7D~LW7Z%24H2316Q%24T.png)![](https://github.com/bigsizeme/shiro-check/blob/master/img/check.png)
 - **FastjsonScan** ---由阿信师傅开发的检测Fastjson反序列化的burp插件，[FastjsonScan.jar下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/FastjsonScan.jar)，[源码](https://github.com/Maskhe/FastjsonScan) 
