@@ -99,6 +99,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **HaE** --- 一款使用Java开发的信息高亮标记与提取插件，比之前介绍过的两款（BurpSuite-Xkeys和IntelligentAnalysis-SSTVINFO）体验要好一点。[源处](https://github.com/gh0stkey/HaE)
 - **BurpShiroPassiveScan** ---一款基于BurpSuite的被动式shiro检测插件，目前有两大功能1.shiro框架指纹检测 2.shiro加密key检测 [源处](https://github.com/pmiaowu/BurpShiroPassiveScan) 
 ![](https://raw.githubusercontent.com/pmiaowu/BurpShiroPassiveScan/master/Docs/images/8.png) 
 - **shiro-check** ---Shiro反序列化回显利用检查 Burp插件，[源项目下载](https://github.com/bigsizeme/shiro-check)
