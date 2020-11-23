@@ -99,6 +99,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpSuite_403Bypasser** ---用python编写的用来测试绕过403的插件。[源出](https://github.com/sting8k/BurpSuite_403Bypasser)
 - **Burp-Non-HTTP-Extension** ---一款用于Burpsuite抓取非HTTP流量的插件。[源出](https://github.com/summitt/Burp-Non-HTTP-Extension)
 - **burp-unauth-checker** ---一款用python开发用来自动化检查未授权漏洞()的burp插件。[源出](https://github.com/theLSA/burp-unauth-checker)
 - **Unexpected.informationv** ---一款用来标记请求包中的一些敏感信息、JS接口和一些特殊字段，防止我们疏忽了一些数据包的插件，内置了八种常见的敏感信息（身份证信息、手机号信息、IP信息、邮箱信息、JS文件API接口路径、特殊字段(password、method: "post"...)、双向检测、高亮显示等），体验不错。[源处](https://github.com/ScriptKid-Beta/Unexpected_information)
