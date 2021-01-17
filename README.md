@@ -99,6 +99,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **JC-AntiToken** ---用python编写的简单防重放绕过burp插件,可以在请求的时候自动从特定源请求下一步的token。[源处](https://github.com/chroblert/JC-AntiToken)
 - **BurpCustomizer** ---新版burp皮肤切换插件，自带几十种皮肤（仅支持2020.12及以上版本的burp），使用方法简单：加载插件，在 Customizer Tab下切换皮肤即可[源出](https://github.com/CoreyD97/BurpCustomizer)
 - **BurpSuite_403Bypasser** ---用python编写的用来测试绕过403的插件。[源出](https://github.com/sting8k/BurpSuite_403Bypasser)
 - **Burp-Non-HTTP-Extension** ---一款用于Burpsuite抓取非HTTP流量的插件。[源出](https://github.com/summitt/Burp-Non-HTTP-Extension)
