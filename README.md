@@ -99,13 +99,14 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **charset_0.4.py** ---通过字符集编码绕过waf的burp插件 [源处](https://github.com/GuoKerS/Charset_encoding-Burp)
 - **struts_ext_v2.jar** ---支持burpsuite插件形式调用检查struts2系列漏洞 [下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/struts_ext_v2.jar)-[源处](https://github.com/prakharathreya/Struts2-RCE)
 - **domain_hunter_pro** --domain_hunter的内部版本，还是来自bit4woo表哥 [源处](https://github.com/bit4woo/domain_hunter_pro)
 - **JC-AntiToken** ---用python编写的简单防重放绕过burp插件,可以在请求的时候自动从特定源请求下一步的token。[源处](https://github.com/chroblert/JC-AntiToken)
-- **BurpCustomizer** ---新版burp皮肤切换插件，自带几十种皮肤（仅支持2020.12及以上版本的burp），使用方法简单：加载插件，在 Customizer Tab下切换皮肤即可[源出](https://github.com/CoreyD97/BurpCustomizer)
-- **BurpSuite_403Bypasser** ---用python编写的用来测试绕过403的插件。[源出](https://github.com/sting8k/BurpSuite_403Bypasser)
-- **Burp-Non-HTTP-Extension** ---一款用于Burpsuite抓取非HTTP流量的插件。[源出](https://github.com/summitt/Burp-Non-HTTP-Extension)
-- **burp-unauth-checker** ---一款用python开发用来自动化检查未授权漏洞()的burp插件。[源出](https://github.com/theLSA/burp-unauth-checker)
+- **BurpCustomizer** ---新版burp皮肤切换插件，自带几十种皮肤（仅支持2020.12及以上版本的burp），使用方法简单：加载插件，在 Customizer Tab下切换皮肤即可[源处](https://github.com/CoreyD97/BurpCustomizer)
+- **BurpSuite_403Bypasser** ---用python编写的用来测试绕过403的插件。[源处](https://github.com/sting8k/BurpSuite_403Bypasser)
+- **Burp-Non-HTTP-Extension** ---一款用于Burpsuite抓取非HTTP流量的插件。[源处](https://github.com/summitt/Burp-Non-HTTP-Extension)
+- **burp-unauth-checker** ---一款用python开发用来自动化检查未授权漏洞()的burp插件。[源处](https://github.com/theLSA/burp-unauth-checker)
 - **Unexpected.informationv** ---一款用来标记请求包中的一些敏感信息、JS接口和一些特殊字段，防止我们疏忽了一些数据包的插件，内置了八种常见的敏感信息（身份证信息、手机号信息、IP信息、邮箱信息、JS文件API接口路径、特殊字段(password、method: "post"...)、双向检测、高亮显示等），体验不错。[源处](https://github.com/ScriptKid-Beta/Unexpected_information)
 - **HaE** --- 一款使用Java开发的信息高亮标记与提取插件，比之前介绍过的两款（BurpSuite-Xkeys和IntelligentAnalysis-SSTVINFO）体验要好一点（需要手动写检测规则，内置只有一个邮箱的检测规则）。[源处](https://github.com/gh0stkey/HaE)
 - **BurpShiroPassiveScan** ---一款基于BurpSuite的被动式shiro检测插件，目前有两大功能1.shiro框架指纹检测 2.shiro加密key检测 [源处](https://github.com/pmiaowu/BurpShiroPassiveScan) 
