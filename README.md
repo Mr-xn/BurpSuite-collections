@@ -99,6 +99,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpJSLinkFinder** --- 从js里挖掘域名和url等隐藏接口信息 [源处](https://github.com/InitRoot/BurpJSLinkFinder)
 - **NEW_xp_CAPTCHA** --- burp验证码识别爆破 [源处](https://github.com/smxiazi/NEW_xp_CAPTCHA)
 - **domain_hunter_pro** ---domain_hunter的高级版本，SRC挖洞、HW打点之必备 [源处](https://github.com/bit4woo/domain_hunter_pro)
 - **charset_0.4.py** ---通过字符集编码绕过waf的burp插件 [源处](https://github.com/GuoKerS/Charset_encoding-Burp)
