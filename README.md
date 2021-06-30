@@ -99,6 +99,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **sql-sup** --- 实现参数溢出、垃圾数据、字典笛卡尔积[源处](https://github.com/S9MF/sql-sup)
 - **BurpJSLinkFinder** --- 从js里挖掘域名和url等隐藏接口信息 [源处](https://github.com/InitRoot/BurpJSLinkFinder)
 - **NEW_xp_CAPTCHA** --- burp验证码识别爆破 [源处](https://github.com/smxiazi/NEW_xp_CAPTCHA)
 - **domain_hunter_pro** ---domain_hunter的高级版本，SRC挖洞、HW打点之必备 [源处](https://github.com/bit4woo/domain_hunter_pro)
