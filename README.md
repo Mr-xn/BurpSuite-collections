@@ -99,6 +99,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpExtractor** --- 从请求和响应提取参数，供爆破、重放等调用 [源处](https://github.com/NetSPI/BurpExtractor)
+- **burp-cph** --- 也是从请求和响应提取参数，供爆破、重放调用 [源处](https://github.com/elespike/burp-cph)
 - **sql-sup** --- 实现参数溢出、垃圾数据、字典笛卡尔积[源处](https://github.com/S9MF/sql-sup)
 - **BurpJSLinkFinder** --- 从js里挖掘域名和url等隐藏接口信息 [源处](https://github.com/InitRoot/BurpJSLinkFinder)
 - **NEW_xp_CAPTCHA** --- burp验证码识别爆破 [源处](https://github.com/smxiazi/NEW_xp_CAPTCHA)
