@@ -99,7 +99,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
-- **BurpBountyPlus** --- BurpBountyPlus 是在BurpBounty的基础添加了右键菜单功能，添加支持了对单个数据包单个参数的漏洞扫描和fuzzer，打通渗透测试的最后一公里，提高效率[源处](https://github.com/ggg4566/BurpBountyPlus)
+- **BurpCrypto** --- BurpCrypto一款支持多种加密算法的用于爆破前端加密的Burp插件，支持直接直接js加密方法，不需要安装第三方组件 [源处](https://github.com/whwlsfb/BurpCrypto)
+- **BurpBountyPlus** --- BurpBountyPlus 是在BurpBounty的基础添加了右键菜单功能，添加支持了对单个数据包单个参数的漏洞扫描和fuzzer，打通渗透测试的最后一公里，提高效率 [源处](https://github.com/ggg4566/BurpBountyPlus)
 - **BurpExtractor** --- 从请求和响应提取参数，供爆破、重放等调用 [源处](https://github.com/NetSPI/BurpExtractor)
 - **burp-cph** --- 也是从请求和响应提取参数，供爆破、重放调用 [源处](https://github.com/elespike/burp-cph)
 - **sql-sup** --- 实现参数溢出、垃圾数据、字典笛卡尔积[源处](https://github.com/S9MF/sql-sup)
