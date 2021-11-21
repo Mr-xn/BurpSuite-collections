@@ -99,6 +99,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **TProxer** --- 一款 Python 编写的 burp插件，用来自动化查找基于 SSRF 的反向代理目录探测插件 [源处](https://github.com/ethicalhackingplayground/TProxer)
 - **CaA** --- 收集 burp 流量参数、路径等关键参数并入库，帮助分析或者直接调用的插件 [源处](https://github.com/gh0stkey/CaA)
 - **BurpCrypto** --- BurpCrypto一款支持多种加密算法的用于爆破前端加密的Burp插件，支持直接直接js加密方法，不需要安装第三方组件 [源处](https://github.com/whwlsfb/BurpCrypto)
 - **BurpBountyPlus** --- BurpBountyPlus 是在BurpBounty的基础添加了右键菜单功能，添加支持了对单个数据包单个参数的漏洞扫描和fuzzer，打通渗透测试的最后一公里，提高效率 [源处](https://github.com/ggg4566/BurpBountyPlus)
