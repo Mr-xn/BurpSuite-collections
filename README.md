@@ -98,7 +98,9 @@
 ##### 插件目录 plugins 介绍:
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
-- **Log4j2Scan** --- 一款被动检测是否存在 log4j 漏洞的 burp 插件 [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan)
+
+- **Log4j-check** --- 又一款被动扫描检测 log4j 漏洞的 burp 插件 [源处](https://github.com/bigsizeme/Log4j-check)
+- **Log4j2Scan** --- 一款被动检测是否存在 log4j 漏洞的 burp 插件 [源处](https://github.com/whwlsfb/Log4j2Scan)
 - **TProxer** --- 一款 Python 编写的 burp插件，用来自动化查找基于 SSRF 的反向代理目录探测插件 [源处](https://github.com/ethicalhackingplayground/TProxer)
 - **CaA** --- 收集 burp 流量参数、路径等关键参数并入库，帮助分析或者直接调用的插件 [源处](https://github.com/gh0stkey/CaA)
 - **BurpCrypto** --- BurpCrypto一款支持多种加密算法的用于爆破前端加密的Burp插件，支持直接直接js加密方法，不需要安装第三方组件 [源处](https://github.com/whwlsfb/BurpCrypto)
