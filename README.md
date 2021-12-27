@@ -127,15 +127,13 @@
 ![](https://github.com/bigsizeme/shiro-check/blob/master/img/ZV%605%24%5BAM%7D~LW7Z%24H2316Q%24T.png)![](https://github.com/bigsizeme/shiro-check/blob/master/img/check.png)
 - **FastjsonScan** ---由阿信师傅开发的检测Fastjson反序列化的burp插件，[FastjsonScan.jar下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/FastjsonScan.jar)，[源码](https://github.com/Maskhe/FastjsonScan) 
 ![](https://github.com/Maskhe/FastjsonScan/blob/master/images/json.png)
+- **fastjsonScan** --- fastjson漏洞burp插件，检测fastjson<1.2.68基于dnslog，fastjson<=1.2.24和1.2.33<=fatjson<=1.2.47的不出网检测和TomcatEcho,SpringEcho回显方案 [源处](https://github.com/zilong3033/fastjsonScan)
+- **BurpSuite-Extender-fastjson** ---一款自动检测fastjson rce的py插件，可检测1.2.24和1.2.47。若存在漏洞自动标注该流量，并在output中输出内容。[源处](https://github.com/uknowsec/BurpSuite-Extender-fastjson)
 - **BurpSuite-Xkeys** ---一款由国外师傅基于python编写的提取网页敏感信息插件，类似与前期推荐的年华师傅写的`IntelligentAnalysis-SSTVINFO`插件功能，欢迎体验使用。[下载以及详细说明](https://github.com/vsec7/BurpSuite-Xkeys)
 ![](https://raw.githubusercontent.com/vsec7/BurpSuite-Xkeys/master/Screenshot/result.png)
 - **passive-scan-client-and-sendto** ---一款burp被动扫描自动转发和手动重发插件，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/passive-scan-client-and-sendto.jar)，[详细介绍说明](https://github.com/Conanjun/passive-scan-client-and-sendto)
 ![](./img/passive-scan-client-and-sendto.png)  
-- **shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar** ---一款Shiro回显Burp插件(支持Burp被动扫描功能)，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar)，[详细介绍说明及源处](https://github.com/potats0/shiroPoc) 
-
-![](./img/shiroPoc.png) 
-
-- **BurpSuite-Extender-fastjson** ---一款自动检测fastjson rce的py插件，可检测1.2.24和1.2.47。若存在漏洞自动标注该流量，并在output中输出内容。[源处](https://github.com/uknowsec/BurpSuite-Extender-fastjson)
+- **shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar** ---一款Shiro回显Burp插件(支持Burp被动扫描功能)，[点击下载](https://raw.githubusercontent.com/Mr-xn/BurpSuite-collections/master/plugins/shiroPoc-0.5-SNAPSHOT-jar-with-dependencies.jar)，[详细介绍说明及源处](https://github.com/potats0/shiroPoc) ![](./img/shiroPoc.png) 
 - **Burp_AES_Plugin** --- 一款用于爆破AES加密CBC模式的爆破插件，使用之前需要修改`src/main/java/burp/BurpExtender.java` 当中的`key`和`iv` 值，然后使用`mvn install` 编译即可。[出处](https://github.com/jas502n/Burp_AES_Plugin)
 - **IntelligentAnalysis-SSTVINFO** ---一款用于发现Response包含的敏感信息，基于python开发的burp插件。[SSTVINFO源处](https://github.com/nian-hua/BurpExtender) 修改过带有邮箱识别加IP地址修正的版本在插件目录[下载](./plugins/IntelligentAnalysis.py)。
 
