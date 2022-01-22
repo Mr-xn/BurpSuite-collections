@@ -53,7 +53,7 @@ ${jdk_path} -Xdock:icon=${SHELL_FOLDER}/BurpSuite.icns -Dfile.encoding=utf-8 -no
 <img width="537" alt="12" src="https://user-images.githubusercontent.com/18260135/150629792-520fa2b0-9b78-4ad2-952e-6ef3f4c8341e.png">  
 在左边找到 **运行shell脚本**  拖到右边区域  
 <img width="1000" alt="13" src="https://user-images.githubusercontent.com/18260135/150629802-1f470bb1-d1cf-4273-b9ee-88ca089391af.png">  
-然后填写 shell 内容：`cd /path/to/your/burpsuite && bash start_burp.sh`  
+然后填写 shell 内容：`cd /path/to/your/burpsuite && bash start_burp.sh` **注意替换前面的路径为你自己 burpsuite 所在的路径**  
 <img width="1000" alt="14" src="https://user-images.githubusercontent.com/18260135/150629813-9d669cca-d3d4-4735-9296-6257dd72d89c.png">  
 然后选择右上角的 **运行** 看是否可以正常打开 burpsuite ，如果可以就保存（command+s）  
 制作完成，可以在 启动台LaunchPad 里找到你的 burpsuite 或者 在 访达 的应用程序目录找到你的 burpsuite  
