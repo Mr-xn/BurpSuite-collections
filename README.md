@@ -8,6 +8,8 @@
 
 [在 Mac 下制作成 APP 放在 dock 里一键启动](./mac_app.md)  
 
+[使用 github action 打包最新的 burp 插件](./update_jar.md)
+
 [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 <details>
 
