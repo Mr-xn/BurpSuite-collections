@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **burpFakeIP** --- 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件 [源处](https://github.com/TheKingOfDuck/burpFakeIP)
 - **Log4j-check** --- 又一款被动扫描检测 log4j 漏洞的 burp 插件 [源处](https://github.com/bigsizeme/Log4j-check)
 - **Log4j2Scan** --- 一款被动检测是否存在 log4j 漏洞的 burp 插件 [源处](https://github.com/whwlsfb/Log4j2Scan)
 - **TProxer** --- 一款 Python 编写的 burp插件，用来自动化查找基于 SSRF 的反向代理目录探测插件 [源处](https://github.com/ethicalhackingplayground/TProxer)
