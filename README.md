@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpFastJsonScan** --- BurpFastJsonScan,一款基于BurpSuite的被动式FastJson检测插件[源处](https://github.com/pmiaowu/BurpFastJsonScan)
 - **xia_sql** --- sql注入检测：在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件 [源处](https://github.com/smxiazi/xia_sql)
 - **burpFakeIP** --- 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件 [源处](https://github.com/TheKingOfDuck/burpFakeIP)
 - **Log4j-check** --- 又一款被动扫描检测 log4j 漏洞的 burp 插件 [源处](https://github.com/bigsizeme/Log4j-check)
