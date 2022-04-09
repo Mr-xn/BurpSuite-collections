@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **SpringScan** --- Spring Core RCE 系列检测[源处](https://github.com/metaStor/SpringScan)
 - **captcha-killer-modified** --- captcha-killer的修改版，主要用于验证码爆破，适配新版Burpsuite，支持 dddocr 调用 [源处](https://github.com/f0ng/captcha-killer-modified)
 ![image](https://user-images.githubusercontent.com/18260135/159264525-0ef5f28e-c6e0-48f1-9e76-5163d0516bb1.png)
 - **BurpFastJsonScan** --- BurpFastJsonScan,一款基于BurpSuite的被动式FastJson检测插件[源处](https://github.com/pmiaowu/BurpFastJsonScan)
