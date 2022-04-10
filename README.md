@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **JustC2file** --- Malleable C2 Profiles生成器；可以通过Burp代理选中请求，生成Cobalt Strike的profile文件(CSprofile) [源处](https://github.com/Peithon/JustC2file)
 - **SpringScan** --- Spring Core RCE 系列检测[源处](https://github.com/metaStor/SpringScan)
 - **captcha-killer-modified** --- captcha-killer的修改版，主要用于验证码爆破，适配新版Burpsuite，支持 dddocr 调用 [源处](https://github.com/f0ng/captcha-killer-modified)
 ![image](https://user-images.githubusercontent.com/18260135/159264525-0ef5f28e-c6e0-48f1-9e76-5163d0516bb1.png)
