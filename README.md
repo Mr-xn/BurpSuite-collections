@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **fastjson-exp** --- fastjson利用，burp插件。 支持出网 jndi利用检测，不出网 tomcat、spring回显，哥斯拉内存马，回显利用链为dhcp、ibatis、c3p0，内存马支持tomcat89[源处](https://github.com/skisw/fastjson-exp)
 - **burp-awesome-tls** --- burp-awesome-tls：修复Burp Suite可怕的TLS堆栈并伪造任何浏览器指纹 [源处](https://github.com/sleeyax/burp-awesome-tls)
 - **JustC2file** --- Malleable C2 Profiles生成器；可以通过Burp代理选中请求，生成Cobalt Strike的profile文件(CSprofile) [源处](https://github.com/Peithon/JustC2file)
 - **SpringScan** --- Spring Core RCE 系列检测[源处](https://github.com/metaStor/SpringScan)
