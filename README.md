@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **base64encode** --- a [源处](https://github.com/handbye/base64encode)
 - **HackTools** --- 一款支持编码、加解密、杀软查询和文本处理的 burp插件 [源处](https://github.com/Vicl1fe/HackTools)
 - **RouteVulScan** --- 递归式被动检测脆弱路径的burp插件[源处](https://github.com/F6JO/RouteVulScan)
 - **fastjson-exp** --- fastjson利用，burp插件。 支持出网 jndi利用检测，不出网 tomcat、spring回显，哥斯拉内存马，回显利用链为dhcp、ibatis、c3p0，内存马支持tomcat89[源处](https://github.com/skisw/fastjson-exp)
