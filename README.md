@@ -103,6 +103,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **sweetPotato** --- 一款用于在burpsuite 中自动递归发现关注的域名资产和额外的流量检测插件 [源处](https://github.com/z2p/sweetPotato)
 - **xia_Liao** --- 一款用于在burpsuite 快速生成 姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出插件 [源处](https://github.com/smxiazi/xia_Liao)
 - **base64encode** --- 一款支持burpsuite POST数据包base64编码插件 [源处](https://github.com/handbye/base64encode)
 - **HackTools** --- 一款支持编码、加解密、杀软查询和文本处理的 burp插件 [源处](https://github.com/Vicl1fe/HackTools)
