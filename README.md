@@ -105,6 +105,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **autoDecoder** --- 根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy的burp插件 [源处](https://github.com/f0ng/autoDecoder)
 - **burp-text4shell** --- 用于CVE-2022-42889：Text4Shell 漏洞扫描burp插件[源处](https://github.com/silentsignal/burp-text4shell)
 - **sweetPotato** --- 一款用于在burpsuite 中自动递归发现关注的域名资产和额外的流量检测插件 [源处](https://github.com/z2p/sweetPotato)
 - **xia_Liao** --- 一款用于在burpsuite 快速生成 姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出插件 [源处](https://github.com/smxiazi/xia_Liao)
