@@ -105,6 +105,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **JsonDetect** --- 支持被动扫描json，根据不同json库的特性识别出相应的json依赖库的burp插件 [源处](https://github.com/a1phaboy/JsonDetect)
 - **autoDecoder** --- 根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy的burp插件 [源处](https://github.com/f0ng/autoDecoder)
 - **burp-text4shell** --- 用于CVE-2022-42889：Text4Shell 漏洞扫描burp插件[源处](https://github.com/silentsignal/burp-text4shell)
 - **sweetPotato** --- 一款用于在burpsuite 中自动递归发现关注的域名资产和额外的流量检测插件 [源处](https://github.com/z2p/sweetPotato)
