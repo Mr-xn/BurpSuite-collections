@@ -105,6 +105,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **BurpCRLFScan** --- 使用java编写的CRLF-Injection-burp被动扫描插件 [源处](https://github.com/A0WaQ4/BurpCRLFScan)
 - **JsonDetect** --- 支持被动扫描json，根据不同json库的特性识别出相应的json依赖库的burp插件 [源处](https://github.com/a1phaboy/JsonDetect)
 - **autoDecoder** --- 根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy的burp插件 [源处](https://github.com/f0ng/autoDecoder)
 - **burp-text4shell** --- 用于CVE-2022-42889：Text4Shell 漏洞扫描burp插件[源处](https://github.com/silentsignal/burp-text4shell)
