@@ -105,6 +105,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **passive-scan-client-plus** --- passive-scan-client 维护分支 [源处](https://github.com/winezer0/passive-scan-client-plus)
 - **BpScan** --- 一款用于辅助渗透测试工程师日常渗透测试的Burp被动漏扫插件(SpringSpiderScan、Log4jScan和FastJsonScan) [源处](https://github.com/EASY233/BpScan)
 - **BurpCRLFScan** --- 使用java编写的CRLF-Injection-burp被动扫描插件 [源处](https://github.com/A0WaQ4/BurpCRLFScan)
 - **JsonDetect** --- 支持被动扫描json，根据不同json库的特性识别出相应的json依赖库的burp插件 [源处](https://github.com/a1phaboy/JsonDetect)
