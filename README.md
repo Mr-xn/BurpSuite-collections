@@ -105,6 +105,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **OneScan** --- 一个递归目录扫描的BurpSuite插件 [源处](https://github.com/vaycore/OneScan)
 - **OutLook** --- 一款OutLook信息收集工具，在已登录Outlook账号后，可以使用该  插件自动爬取所有联系人的信息 [源处](https://github.com/KrystianLi/OutLook)
 - **passive-scan-client-plus** --- passive-scan-client 维护分支 [源处](https://github.com/winezer0/passive-scan-client-plus)
 - **BpScan** --- 一款用于辅助渗透测试工程师日常渗透测试的Burp被动漏扫插件(SpringSpiderScan、Log4jScan和FastJsonScan) [源处](https://github.com/EASY233/BpScan)
