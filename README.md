@@ -4,6 +4,8 @@
 
 > 所有的汉化或者使用burpsuite都是在你配置好了Java环境的前提下！！！[相关教程](./books/如何在64位Windows%2010下安装java开发环境.pdf)  
 
+> 最新版（202212之后）激活参考这个[项目](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
+
 > 新版burp（202209之后）激活参考scz大佬的方法：[地址](https://www.52pojie.cn/thread-1687434-1-1.html)
 
 > 本项目仅用于burpsuite插件相关学习研究使用！不再提供破解版！项目已经被burp官方提交到GitHub的DMCA了，删除了破解相关文件,如有需要请前往[博客](https://mrxn.net/index.php?keyword=burpsuite) 下载最新[burpsuite_pro_v2020.11.3.jar&BurpSuiteLoader.jar download](https://mrxn.net/hacktools/665.html)  
@@ -105,6 +107,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **npscrack** --- npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、一键利用的BurpSuite插件 [源处](https://github.com/weishen250/npscrack)
 - **OneScan** --- 一个递归目录扫描的BurpSuite插件 [源处](https://github.com/vaycore/OneScan)
 - **OutLook** --- 一款OutLook信息收集工具，在已登录Outlook账号后，可以使用该  插件自动爬取所有联系人的信息 [源处](https://github.com/KrystianLi/OutLook)
 - **passive-scan-client-plus** --- passive-scan-client 维护分支 [源处](https://github.com/winezer0/passive-scan-client-plus)
