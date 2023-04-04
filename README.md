@@ -107,6 +107,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **CustomCrypto** --- Burp自定义加解密插件 [源处](https://github.com/dreamncn/CustomCrypto)
 - **npscrack** --- npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、一键利用的BurpSuite插件 [源处](https://github.com/weishen250/npscrack)
 - **OneScan** --- 一个递归目录扫描的BurpSuite插件 [源处](https://github.com/vaycore/OneScan)
 - **OutLook** --- 一款OutLook信息收集工具，在已登录Outlook账号后，可以使用该  插件自动爬取所有联系人的信息 [源处](https://github.com/KrystianLi/OutLook)
