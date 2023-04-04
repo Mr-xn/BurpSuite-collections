@@ -107,6 +107,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **burp-vps-proxy** --- 在大多数的云服务上自动创建和删除一个上游SOCKS5代理并自动应用的插件 [源处](https://github.com/d3mondev/burp-vps-proxy)
 - **CustomCrypto** --- Burp自定义加解密插件 [源处](https://github.com/dreamncn/CustomCrypto)
 - **npscrack** --- npscrack：蓝队利器、溯源反制、NPS 漏洞利用、NPS exp、NPS poc、一键利用的BurpSuite插件 [源处](https://github.com/weishen250/npscrack)
 - **OneScan** --- 一个递归目录扫描的BurpSuite插件 [源处](https://github.com/vaycore/OneScan)
