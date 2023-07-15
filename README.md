@@ -107,6 +107,8 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- [Burpy: 基于python的前端加解密解决方案](https://github.com/mr-m0nst3r/Burpy)
+- [interactsh-collaborator: Interact.sh反链平台的burp插件](https://github.com/wdahlenburg/interactsh-collaborator)
 - **burpsuite_hack** --- 被动代理扫描插件，可检测SQL注入、SSRF漏洞 [源处](https://github.com/depycode/burpsuite_hack)
 - **BypassPro** --- 对权限绕过自动化bypass的burpsuite插件 [源处](https://github.com/0x727/BypassPro)
 - **burp-vps-proxy** --- 在大多数的云服务上自动创建和删除一个上游SOCKS5代理并自动应用的插件 [源处](https://github.com/d3mondev/burp-vps-proxy)
