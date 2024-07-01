@@ -107,6 +107,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- [BurpAppletPentester: 微信小程序Wx_SessionKey加解密插件](https://github.com/mrknow001/BurpAppletPentester)
 - [Burpy: 基于python的前端加解密解决方案](https://github.com/mr-m0nst3r/Burpy)
 - [interactsh-collaborator: Interact.sh反链平台的burp插件](https://github.com/wdahlenburg/interactsh-collaborator)
 - **burpsuite_hack** --- 被动代理扫描插件，可检测SQL注入、SSRF漏洞 [源处](https://github.com/depycode/burpsuite_hack)
