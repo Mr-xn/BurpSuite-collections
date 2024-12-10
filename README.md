@@ -107,6 +107,7 @@
 
 > plugins目录下新增[awesome-burp-extensions的翻译版本](./plugins/awesome-burp-extensions)  
 
+- **AutoRepeater** --- 自动化挖掘SSRF，Redirect，Sqli漏洞，自定义匹配参数 [源处](https://github.com/Lotus6/AutoRepeater)
 - **DetSql** --- 快速探测可能存在SQL注入的请求并标记，提高测试效率 [源处](https://github.com/saoshao/DetSql)
 - **AutorizePro** --- 一款越权检测 Burp 插件，通过增加AI分析模块 && 进一步优化检测逻辑，大幅降低误报率，提升越权漏洞检出效率 [源处](https://github.com/sule01u/AutorizePro)
 - **nowafpls** --- 插入垃圾字符来绕过waf [源处](https://github.com/assetnote/nowafpls)
