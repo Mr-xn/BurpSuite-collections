@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **FastjsonScan4Burp** ---  一款基于burp被动扫描的fastjson漏洞探测插件，可针对数据包中的存在json的参数或请求体进行payload测试。旨在帮助安全人员更加便捷的发现、探测、深入利用fastjson漏洞，目前以实现fastjson探测、版本探测、依赖探测以及出网及不出网利用和简易的bypass waf功能。 [源出](https://github.com/Niiiiko/FastjsonScan4Burp)
 - **CaptchaDos** --- Burpsuite验证码DOS攻击插件 [源出](https://github.com/ther0ok1eboy/CaptchaDos)
 - **BucketVulTools** --- Burpsuite存储桶配置不当漏洞检测插件 [源出](https://github.com/libaibaia/BucketVulTools)
 - **Auto-SSRF** --- 基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件 [源出](https://github.com/banchengkemeng/Auto-SSRF)
