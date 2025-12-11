@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **SMS_Bomb_Fuzzer** --- 一个集成的BurpSuite漏洞探测插件 [源出](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer)
 - **APIKit** --- 一个集成的BurpSuite漏洞探测插件 [源出](https://github.com/API-Security/APIKit)
 - **TsojanScan** --- 一个集成的BurpSuite漏洞探测插件 [源出](https://github.com/Tsojan/TsojanScan)
 - **CloudX** --- 一个基于规则的加解密破签工具 [源出](https://github.com/cloud-jie/CloudX)
