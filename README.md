@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **DouSql** --- 基于Xia Sql 二次开发的SQL注入检测插件 [源出](https://github.com/darkfiv/DouSql)
 - **burp_variables** --- 允许你在Burp工具中定义和使用变量 [源出](https://github.com/0xceba/burp_variables)
 - **SMS_Bomb_Fuzzer** --- Burp suite 短信轰炸辅助绕过插件 [源出](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer)
 - **APIKit** --- 一个集成的BurpSuite漏洞探测插件 [源出](https://github.com/API-Security/APIKit)
