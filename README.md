@@ -31,6 +31,7 @@
 - **AutoRepeater** --- 自动化挖掘SSRF，Redirect，Sqli漏洞，自定义匹配参数 [源处](https://github.com/Lotus6/AutoRepeater)
 - **DetSql** --- 快速探测可能存在SQL注入的请求并标记，提高测试效率 [源处](https://github.com/saoshao/DetSql)
 - **AutorizePro** --- 一款越权检测 Burp 插件，通过增加AI分析模块 && 进一步优化检测逻辑，大幅降低误报率，提升越权漏洞检出效率 [源处](https://github.com/sule01u/AutorizePro)
+- **Zack-AI-Scanner** --- 一款基于大语言模型的自动化 Web 漏洞扫描 Burp 插件，支持 AI 智能扫描、漏洞验证与报告导出 [源处](https://github.com/ZackSecurity/Zack-AI-Scanner)
 - **nowafpls** --- 插入垃圾字符来绕过waf [源处](https://github.com/assetnote/nowafpls)
 - **gatherBurp** --- fastjson、权限绕过、未授权、sql注入、多层级路由、log4j扫描以及生成指定kb大小的随机字符串+子域名+代理池 [源处](https://github.com/kN6jq/gatherBurp)
 - **BurpFingerPrint** --- 集成Ehole指纹库并进行常见OA弱口令爆破插件 [源处](https://github.com/shuanx/BurpFingerPrint)
