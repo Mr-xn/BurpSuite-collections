@@ -30,6 +30,7 @@
 - **Auto-SSRF** --- 基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件 [源出](https://github.com/banchengkemeng/Auto-SSRF)
 - **AutoRepeater** --- 自动化挖掘SSRF，Redirect，Sqli漏洞，自定义匹配参数 [源处](https://github.com/Lotus6/AutoRepeater)
 - **DetSql** --- 快速探测可能存在SQL注入的请求并标记，提高测试效率 [源处](https://github.com/saoshao/DetSql)
+- **SqlScout** --- 面向 Burp 日常工作流的 SQL 注入辅助检测与参数变异插件，侧重“快速筛查 + 人工复核”；相较 DetSql，更强调复杂参数结构处理与策略可控性 [源处](https://github.com/TD0U/SqlScout)
 - **AutorizePro** --- 一款越权检测 Burp 插件，通过增加AI分析模块 && 进一步优化检测逻辑，大幅降低误报率，提升越权漏洞检出效率 [源处](https://github.com/sule01u/AutorizePro)
 - **Zack-AI-Scanner** --- 一款基于大语言模型的自动化 Web 漏洞扫描 Burp 插件，支持 AI 智能扫描、漏洞验证与报告导出 [源处](https://github.com/ZackSecurity/Zack-AI-Scanner)
 - **nowafpls** --- 插入垃圾字符来绕过waf [源处](https://github.com/assetnote/nowafpls)
