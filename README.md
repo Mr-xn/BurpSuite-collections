@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **burp_history** --- 一款集成了 HTTP 流量监控、管理以及团队共享协作的 Burp Suite 历史流量记录与分析插件 [源处](https://github.com/xz-zone/burp_history)
 - **DouSql** --- 基于Xia Sql 二次开发的SQL注入检测插件 [源出](https://github.com/darkfiv/DouSql)
 - **burp_variables** --- 允许你在Burp工具中定义和使用变量 [源出](https://github.com/0xceba/burp_variables)
 - **SMS_Bomb_Fuzzer** --- Burp suite 短信轰炸辅助绕过插件 [源出](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer)
