@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **BurpMCP-Ultra** --- 一个为 Burp Suite 打造的高性能 MCP 扩展框架，用于在渗透测试中集成多模型 AI、自动化分析与智能辅助操作的BurpSuite增强插件。 [源处](https://github.com/Cy-S3c/BurpMCP-Ultra)
 - **burp_history** --- 一款集成了 HTTP 流量监控、管理以及团队共享协作的 Burp Suite 历史流量记录与分析插件 [源处](https://github.com/xz-zone/burp_history)
 - **DouSql** --- 基于Xia Sql 二次开发的SQL注入检测插件 [源出](https://github.com/darkfiv/DouSql)
 - **burp_variables** --- 允许你在Burp工具中定义和使用变量 [源出](https://github.com/0xceba/burp_variables)
