@@ -18,6 +18,8 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **TokenTwin-Checker** --- 一个专为 Burp Suite 开发的自动化授权测试扩展，用来快速发现 BAC（Broken Access Control）、IDOR（Insecure Direct Object Reference）以及水平越权漏洞。  [源处](https://github.com/rootdr-backup/TokenTwin-Checker)
+它的核心功能是：让多个不同用户的身份（Cookie / Token）自动互相重放同一个请求，从而检测是否存在越权访问。   
 - **BurpMCP-Ultra** --- 一个为 Burp Suite 打造的高性能 MCP 扩展框架，用于在渗透测试中集成多模型 AI、自动化分析与智能辅助操作的BurpSuite增强插件。 [源处](https://github.com/Cy-S3c/BurpMCP-Ultra)
 - **burp_history** --- 一款集成了 HTTP 流量监控、管理以及团队共享协作的 Burp Suite 历史流量记录与分析插件 [源处](https://github.com/xz-zone/burp_history)
 - **DouSql** --- 基于Xia Sql 二次开发的SQL注入检测插件 [源出](https://github.com/darkfiv/DouSql)
