@@ -18,19 +18,20 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **BurpSuiteSharpenerEx** --- 是一个专门用于增强 Burp Suite 使用体验的扩展，它通过大量 UI 与交互改进，让 Repeater、Intruder、Proxy 等核心工具更好用、更高效。  [源处](https://github.com/irsdl/BurpSuiteSharpenerEx)
 - **TokenTwin-Checker** --- 一个专为 Burp Suite 开发的自动化授权测试扩展，用来快速发现 BAC（Broken Access Control）、IDOR（Insecure Direct Object Reference）以及水平越权漏洞。 它的核心功能是：让多个不同用户的身份（Cookie / Token）自动互相重放同一个请求，从而检测是否存在越权访问。 [源处](https://github.com/rootdr-backup/TokenTwin-Checker)
 - **BurpMCP-Ultra** --- 一个为 Burp Suite 打造的高性能 MCP 扩展框架，用于在渗透测试中集成多模型 AI、自动化分析与智能辅助操作的BurpSuite增强插件。 [源处](https://github.com/Cy-S3c/BurpMCP-Ultra)
 - **burp_history** --- 一款集成了 HTTP 流量监控、管理以及团队共享协作的 Burp Suite 历史流量记录与分析插件 [源处](https://github.com/xz-zone/burp_history)
-- **DouSql** --- 基于Xia Sql 二次开发的SQL注入检测插件 [源出](https://github.com/darkfiv/DouSql)
-- **burp_variables** --- 允许你在Burp工具中定义和使用变量 [源出](https://github.com/0xceba/burp_variables)
-- **SMS_Bomb_Fuzzer** --- Burp suite 短信轰炸辅助绕过插件 [源出](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer)
-- **APIKit** --- 一个集成的BurpSuite漏洞探测插件 [源出](https://github.com/API-Security/APIKit)
-- **TsojanScan** --- 一个集成的BurpSuite漏洞探测插件 [源出](https://github.com/Tsojan/TsojanScan)
-- **CloudX** --- 一个基于规则的加解密破签工具 [源出](https://github.com/cloud-jie/CloudX)
-- **FastjsonScan4Burp** ---  一款基于burp被动扫描的fastjson漏洞探测插件，可针对数据包中的存在json的参数或请求体进行payload测试。旨在帮助安全人员更加便捷的发现、探测、深入利用fastjson漏洞，目前以实现fastjson探测、版本探测、依赖探测以及出网及不出网利用和简易的bypass waf功能。 [源出](https://github.com/Niiiiko/FastjsonScan4Burp)
-- **CaptchaDos** --- Burpsuite验证码DOS攻击插件 [源出](https://github.com/ther0ok1eboy/CaptchaDos)
-- **BucketVulTools** --- Burpsuite存储桶配置不当漏洞检测插件 [源出](https://github.com/libaibaia/BucketVulTools)
-- **Auto-SSRF** --- 基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件 [源出](https://github.com/banchengkemeng/Auto-SSRF)
+- **DouSql** --- 基于Xia Sql 二次开发的SQL注入检测插件 [源处](https://github.com/darkfiv/DouSql)
+- **burp_variables** --- 允许你在Burp工具中定义和使用变量 [源处](https://github.com/0xceba/burp_variables)
+- **SMS_Bomb_Fuzzer** --- Burp suite 短信轰炸辅助绕过插件 [源处](https://github.com/yuziiiiiiiiii/SMS_Bomb_Fuzzer)
+- **APIKit** --- 一个集成的BurpSuite漏洞探测插件 [源处](https://github.com/API-Security/APIKit)
+- **TsojanScan** --- 一个集成的BurpSuite漏洞探测插件 [源处](https://github.com/Tsojan/TsojanScan)
+- **CloudX** --- 一个基于规则的加解密破签工具 [源处](https://github.com/cloud-jie/CloudX)
+- **FastjsonScan4Burp** ---  一款基于burp被动扫描的fastjson漏洞探测插件，可针对数据包中的存在json的参数或请求体进行payload测试。旨在帮助安全人员更加便捷的发现、探测、深入利用fastjson漏洞，目前以实现fastjson探测、版本探测、依赖探测以及出网及不出网利用和简易的bypass waf功能。 [源处](https://github.com/Niiiiko/FastjsonScan4Burp)
+- **CaptchaDos** --- Burpsuite验证码DOS攻击插件 [源处](https://github.com/ther0ok1eboy/CaptchaDos)
+- **BucketVulTools** --- Burpsuite存储桶配置不当漏洞检测插件 [源处](https://github.com/libaibaia/BucketVulTools)
+- **Auto-SSRF** --- 基于 BurpSuite 新版 MontoyaAPI 的 SSRF 漏洞自动探测插件 [源处](https://github.com/banchengkemeng/Auto-SSRF)
 - **AutoRepeater** --- 自动化挖掘SSRF，Redirect，Sqli漏洞，自定义匹配参数 [源处](https://github.com/Lotus6/AutoRepeater)
 - **DetSql** --- 快速探测可能存在SQL注入的请求并标记，提高测试效率 [源处](https://github.com/saoshao/DetSql)
 - **SqlScout** --- 面向 Burp 日常工作流的 SQL 注入辅助检测与参数变异插件，侧重“快速筛查 + 人工复核”；相较 DetSql，更强调复杂参数结构处理与策略可控性 [源处](https://github.com/TD0U/SqlScout)
@@ -130,10 +131,10 @@
 - **HackBar.jar** --- 做渗透测试的早一点的都知道老版本火狐的HackBar插件吧，这个Burpsuite的类似的功能，详细的可以看项目源地址看 — [HackBar](https://github.com/d3vilbug/HackBar) 动图如下：
 ![HackBar演示](./img/hackbar.gif)
 - **LFI scanner checks.jar** --- 是国人 [lufei](https://github.com/lufeirider/Project/tree/master/LFIScanner) 为burp轻量级扫描器做的一个检测LFI(Local File Include)本地文件包含漏洞插件。相关文章可以在 [freebuf](https://www.freebuf.com/sectool/75118.html) 看他写的或者是看项目[保存的PDF版](https://github.com/Mr-xn/BurpSuite-collections/blob/master/books/%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7%20%E2%80%93%20Burp%E5%9B%BD%E4%BA%A7%E6%8F%92%E4%BB%B6LFI%20scanner%20checks.pdf) 
-- **jsEncrypter.0.3** --- 使用 `phantomjs` 调用前端加密函数对数据进行加密，方便对加密数据输入点进行fuzz [源出](https://github.com/c0ny1/jsEncrypter) 
-- **burp-vulners-scanner-1.2.jar** --- burp 根据Vulners.com提供的漏洞库扫描通过burp的请求是否存在漏洞 [源出](https://github.com/vulnersCom/burp-vulners-scanner)
-- **bypasswaf.jar** 就如其名bypass 一些waf [源出](https://github.com/codewatchorg/bypasswaf) [介绍文章](https://www.codewatch.org/blog/?p=408)
-- **chunked-coding-converter.0.2.1.jar** 国人c0ny1最新版 burp分块输出，也是对抗waf的插件 [源出](https://github.com/c0ny1/chunked-coding-converter) 
+- **jsEncrypter.0.3** --- 使用 `phantomjs` 调用前端加密函数对数据进行加密，方便对加密数据输入点进行fuzz [源处](https://github.com/c0ny1/jsEncrypter) 
+- **burp-vulners-scanner-1.2.jar** --- burp 根据Vulners.com提供的漏洞库扫描通过burp的请求是否存在漏洞 [源处](https://github.com/vulnersCom/burp-vulners-scanner)
+- **bypasswaf.jar** 就如其名bypass 一些waf [源处](https://github.com/codewatchorg/bypasswaf) [介绍文章](https://www.codewatch.org/blog/?p=408)
+- **chunked-coding-converter.0.2.1.jar** 国人c0ny1最新版 burp分块输出，也是对抗waf的插件 [源处](https://github.com/c0ny1/chunked-coding-converter) 
 - **sqlmap.jar** 联合本地sqlmap 进行注入测试，当然burp插件商店上还有一款 sqli-py(地址：[https://github.com/portswigger/sqli-py](https://github.com/portswigger/sqli-py))可以直接安装就不叙述了...推荐使用上面的sqlmap4burp-plus-plus,效果更好!
 
 
