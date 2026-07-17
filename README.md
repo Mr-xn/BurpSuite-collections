@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **mcp-server** --- 是 PortSwigger 官方发布的扩展，用来让 Burp Suite 能够直接与 AI 客户端（例如 Claude Desktop）进行双向交互。它实现了 Model Context Protocol (MCP)，让 AI 可以像“远程助手”一样控制 Burp 的工具，例如 Repeater、Proxy、Organizer 等。[源处](https://github.com/portswigger/mcp-server)
 - **BurpSuiteSharpenerEx** --- 是一个专门用于增强 Burp Suite 使用体验的扩展，它通过大量 UI 与交互改进，让 Repeater、Intruder、Proxy 等核心工具更好用、更高效。  [源处](https://github.com/irsdl/BurpSuiteSharpenerEx)
 - **TokenTwin-Checker** --- 一个专为 Burp Suite 开发的自动化授权测试扩展，用来快速发现 BAC（Broken Access Control）、IDOR（Insecure Direct Object Reference）以及水平越权漏洞。 它的核心功能是：让多个不同用户的身份（Cookie / Token）自动互相重放同一个请求，从而检测是否存在越权访问。 [源处](https://github.com/rootdr-backup/TokenTwin-Checker)
 - **BurpMCP-Ultra** --- 一个为 Burp Suite 打造的高性能 MCP 扩展框架，用于在渗透测试中集成多模型 AI、自动化分析与智能辅助操作的BurpSuite增强插件。 [源处](https://github.com/Cy-S3c/BurpMCP-Ultra)
