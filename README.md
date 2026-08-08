@@ -18,6 +18,7 @@
 
 ##### 插件目录 plugins 介绍:
 
+- **AuthMatrix** 用于检测HTTP请求里的IDOR越权漏洞插件。 [源处](https://github.com/earth11411/AuthMatrix)
 - **BurpHistory2Pcap** 是将burp suite的HTTP history请求和响应导出成包含完整TCP会话的PCAP数据包插件。 [源处](https://github.com/Mr-xn/BurpHistory2Pcap)
 - **mcp-server** --- 是 PortSwigger 官方发布的扩展，用来让 Burp Suite 能够直接与 AI 客户端（例如 Claude Desktop）进行双向交互。它实现了 Model Context Protocol (MCP)，让 AI 可以像“远程助手”一样控制 Burp 的工具，例如 Repeater、Proxy、Organizer 等。[源处](https://github.com/portswigger/mcp-server)
 - **BurpSuiteSharpenerEx** --- 是一个专门用于增强 Burp Suite 使用体验的扩展，它通过大量 UI 与交互改进，让 Repeater、Intruder、Proxy 等核心工具更好用、更高效。  [源处](https://github.com/irsdl/BurpSuiteSharpenerEx)
