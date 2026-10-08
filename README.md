@@ -17,7 +17,7 @@
 [渗透测试面试问题2019版](渗透测试面试问题2019版.md)
 
 ##### 插件目录 plugins 介绍:
-
+- **AuthKit**  首个多维度，UI/UX友好的Burp suite越权漏洞检测插件，通过多身份重放与多维度响应对比，辅助发现未授权访问、水平越权、垂直越权及 BOLA / IDOR 风险，减少重复发包和手工比对。 [源处](https://github.com/youmulijiang/AuthKit)
 - **BurpAPISecuritySuite**  一个集侦察、分析、模糊测试、资产管理、外部工具联动与 AI 自动化于一体的专业级 API 安全测试扩展。 [源处](https://github.com/Teycir/BurpAPISecuritySuite)
 - **AuthMatrix** 用于检测HTTP请求里的IDOR越权漏洞插件。 [源处](https://github.com/earth11411/AuthMatrix)
 - **BurpHistory2Pcap** 是将burp suite的HTTP history请求和响应导出成包含完整TCP会话的PCAP数据包插件。 [源处](https://github.com/Mr-xn/BurpHistory2Pcap)
